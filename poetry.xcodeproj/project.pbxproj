@@ -1,0 +1,1548 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		245AA0761B7386350033A9F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 245AA0751B7386350033A9F5 /* Assets.xcassets */; };
+		246650F21B778BE9009261FC /* 02望庐山瀑布_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650E41B778BE9009261FC /* 02望庐山瀑布_唐老师_句1.mp3 */; };
+		246650F31B778BE9009261FC /* 02望庐山瀑布_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650E51B778BE9009261FC /* 02望庐山瀑布_唐老师_句2.mp3 */; };
+		246650F41B778BE9009261FC /* 02望庐山瀑布_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650E61B778BE9009261FC /* 02望庐山瀑布_唐老师_句3.mp3 */; };
+		246650F51B778BE9009261FC /* 02望庐山瀑布_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650E71B778BE9009261FC /* 02望庐山瀑布_唐老师_句4.mp3 */; };
+		246650F61B778BE9009261FC /* 02望庐山瀑布_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650E81B778BE9009261FC /* 02望庐山瀑布_唐老师.mp3 */; };
+		246650F71B778BE9009261FC /* 02望庐山瀑布_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650E91B778BE9009261FC /* 02望庐山瀑布_周老师_句1.mp3 */; };
+		246650F81B778BE9009261FC /* 02望庐山瀑布_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650EA1B778BE9009261FC /* 02望庐山瀑布_周老师_句2.mp3 */; };
+		246650F91B778BE9009261FC /* 02望庐山瀑布_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650EB1B778BE9009261FC /* 02望庐山瀑布_周老师_句4.mp3 */; };
+		246650FA1B778BE9009261FC /* 02望庐山瀑布_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650EC1B778BE9009261FC /* 02望庐山瀑布_周老师.mp3 */; };
+		246650FC1B778D3C009261FC /* 02望庐山瀑布_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 246650FB1B778D3C009261FC /* 02望庐山瀑布_周老师_句3.mp3 */; };
+		24810EDE1B78B42200E21F28 /* 07绝句_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810ED91B78B42200E21F28 /* 07绝句_周老师_句1.mp3 */; };
+		24810EDF1B78B42200E21F28 /* 07绝句_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EDA1B78B42200E21F28 /* 07绝句_周老师_句2.mp3 */; };
+		24810EE01B78B42200E21F28 /* 07绝句_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EDB1B78B42200E21F28 /* 07绝句_周老师_句3.mp3 */; };
+		24810EE11B78B42200E21F28 /* 07绝句_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EDC1B78B42200E21F28 /* 07绝句_周老师_句4.mp3 */; };
+		24810EE21B78B42200E21F28 /* 07绝句_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EDD1B78B42200E21F28 /* 07绝句_周老师.mp3 */; };
+		24810EE81B78B43200E21F28 /* 18早春_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EE31B78B43200E21F28 /* 18早春_周老师_句1.mp3 */; };
+		24810EE91B78B43200E21F28 /* 18早春_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EE41B78B43200E21F28 /* 18早春_周老师_句2.mp3 */; };
+		24810EEB1B78B43200E21F28 /* 18早春_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EE61B78B43200E21F28 /* 18早春_周老师_句4.mp3 */; };
+		24810EEC1B78B43200E21F28 /* 18早春_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24810EE71B78B43200E21F28 /* 18早春_周老师.mp3 */; };
+		248239571B7669D60014B11C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 248239551B7669D60014B11C /* Main.storyboard */; };
+		24823A3D1B7672E70014B11C /* 03早发白帝城_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482396C1B7672E60014B11C /* 03早发白帝城_唐老师_句1.mp3 */; };
+		24823A3E1B7672E70014B11C /* 03早发白帝城_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482396D1B7672E60014B11C /* 03早发白帝城_唐老师_句2.mp3 */; };
+		24823A3F1B7672E70014B11C /* 03早发白帝城_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482396E1B7672E60014B11C /* 03早发白帝城_唐老师_句3.mp3 */; };
+		24823A401B7672E70014B11C /* 03早发白帝城_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482396F1B7672E60014B11C /* 03早发白帝城_唐老师_句4.mp3 */; };
+		24823A411B7672E70014B11C /* 03早发白帝城_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239701B7672E60014B11C /* 03早发白帝城_唐老师.mp3 */; };
+		24823A421B7672E70014B11C /* 03早发白帝城_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239711B7672E60014B11C /* 03早发白帝城_周老师_句1.mp3 */; };
+		24823A431B7672E70014B11C /* 03早发白帝城_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239721B7672E60014B11C /* 03早发白帝城_周老师_句2.mp3 */; };
+		24823A441B7672E70014B11C /* 03早发白帝城_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239731B7672E60014B11C /* 03早发白帝城_周老师_句3.mp3 */; };
+		24823A451B7672E70014B11C /* 03早发白帝城_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239741B7672E60014B11C /* 03早发白帝城_周老师_句4.mp3 */; };
+		24823A461B7672E70014B11C /* 03早发白帝城_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239751B7672E60014B11C /* 03早发白帝城_周老师.mp3 */; };
+		24823A4C1B7672E70014B11C /* 04静夜思_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482397B1B7672E60014B11C /* 04静夜思_唐老师_句1.mp3 */; };
+		24823A4D1B7672E70014B11C /* 04静夜思_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482397C1B7672E60014B11C /* 04静夜思_唐老师_句2.mp3 */; };
+		24823A4E1B7672E70014B11C /* 04静夜思_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482397D1B7672E60014B11C /* 04静夜思_唐老师_句3.mp3 */; };
+		24823A4F1B7672E70014B11C /* 04静夜思_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482397E1B7672E60014B11C /* 04静夜思_唐老师_句4.mp3 */; };
+		24823A501B7672E70014B11C /* 04静夜思_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482397F1B7672E60014B11C /* 04静夜思_唐老师.mp3 */; };
+		24823A511B7672E70014B11C /* 04静夜思_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239801B7672E60014B11C /* 04静夜思_周老师_句1.mp3 */; };
+		24823A521B7672E70014B11C /* 04静夜思_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239811B7672E60014B11C /* 04静夜思_周老师_句2.mp3 */; };
+		24823A531B7672E70014B11C /* 04静夜思_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239821B7672E60014B11C /* 04静夜思_周老师_句3.mp3 */; };
+		24823A541B7672E70014B11C /* 04静夜思_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239831B7672E60014B11C /* 04静夜思_周老师_句4.mp3 */; };
+		24823A551B7672E70014B11C /* 04静夜思_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239841B7672E60014B11C /* 04静夜思_周老师.mp3 */; };
+		24823A5B1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482398A1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句1.mp3 */; };
+		24823A5C1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482398B1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句2.mp3 */; };
+		24823A5D1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482398C1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句3.mp3 */; };
+		24823A5E1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482398D1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句4.mp3 */; };
+		24823A5F1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482398E1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师.mp3 */; };
+		24823A601B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482398F1B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句1.mp3 */; };
+		24823A611B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239901B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句2.mp3 */; };
+		24823A621B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239911B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句3.mp3 */; };
+		24823A631B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239921B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句4.mp3 */; };
+		24823A641B7672E70014B11C /* 05九月九日忆山东兄弟_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239931B7672E60014B11C /* 05九月九日忆山东兄弟_周老师.mp3 */; };
+		24823A6A1B7672E70014B11C /* 06春晓_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239991B7672E60014B11C /* 06春晓_唐老师_句1.mp3 */; };
+		24823A6B1B7672E70014B11C /* 06春晓_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482399A1B7672E60014B11C /* 06春晓_唐老师_句2.mp3 */; };
+		24823A6C1B7672E70014B11C /* 06春晓_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482399B1B7672E60014B11C /* 06春晓_唐老师_句3.mp3 */; };
+		24823A6D1B7672E70014B11C /* 06春晓_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482399C1B7672E60014B11C /* 06春晓_唐老师_句4.mp3 */; };
+		24823A6E1B7672E70014B11C /* 06春晓_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482399D1B7672E60014B11C /* 06春晓_唐老师.mp3 */; };
+		24823A6F1B7672E70014B11C /* 06春晓_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482399E1B7672E60014B11C /* 06春晓_周老师_句1.mp3 */; };
+		24823A701B7672E70014B11C /* 06春晓_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2482399F1B7672E60014B11C /* 06春晓_周老师_句2.mp3 */; };
+		24823A711B7672E70014B11C /* 06春晓_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239A01B7672E60014B11C /* 06春晓_周老师_句3.mp3 */; };
+		24823A721B7672E70014B11C /* 06春晓_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239A11B7672E60014B11C /* 06春晓_周老师_句4.mp3 */; };
+		24823A731B7672E70014B11C /* 06春晓_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239A21B7672E60014B11C /* 06春晓_周老师.mp3 */; };
+		24823A791B7672E70014B11C /* 07绝句_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239A81B7672E60014B11C /* 07绝句_唐老师_句1.mp3 */; };
+		24823A7A1B7672E70014B11C /* 07绝句_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239A91B7672E60014B11C /* 07绝句_唐老师_句2.mp3 */; };
+		24823A7B1B7672E70014B11C /* 07绝句_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239AA1B7672E60014B11C /* 07绝句_唐老师_句3.mp3 */; };
+		24823A7C1B7672E70014B11C /* 07绝句_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239AB1B7672E60014B11C /* 07绝句_唐老师_句4.mp3 */; };
+		24823A7D1B7672E70014B11C /* 07绝句_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239AC1B7672E60014B11C /* 07绝句_唐老师.mp3 */; };
+		24823A881B7672E70014B11C /* 08秋夕_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239B71B7672E60014B11C /* 08秋夕_唐老师_句1.mp3 */; };
+		24823A891B7672E70014B11C /* 08秋夕_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239B81B7672E60014B11C /* 08秋夕_唐老师_句2.mp3 */; };
+		24823A8A1B7672E70014B11C /* 08秋夕_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239B91B7672E60014B11C /* 08秋夕_唐老师_句3.mp3 */; };
+		24823A8B1B7672E70014B11C /* 08秋夕_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239BA1B7672E60014B11C /* 08秋夕_唐老师_句4.mp3 */; };
+		24823A8C1B7672E70014B11C /* 08秋夕_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239BB1B7672E60014B11C /* 08秋夕_唐老师.mp3 */; };
+		24823A8D1B7672E70014B11C /* 08秋夕_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239BC1B7672E60014B11C /* 08秋夕_周老师_句1.mp3 */; };
+		24823A8E1B7672E70014B11C /* 08秋夕_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239BD1B7672E60014B11C /* 08秋夕_周老师_句2.mp3 */; };
+		24823A8F1B7672E70014B11C /* 08秋夕_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239BE1B7672E60014B11C /* 08秋夕_周老师_句3.mp3 */; };
+		24823A901B7672E70014B11C /* 08秋夕_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239BF1B7672E60014B11C /* 08秋夕_周老师_句4.mp3 */; };
+		24823A911B7672E70014B11C /* 08秋夕_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239C01B7672E60014B11C /* 08秋夕_周老师.mp3 */; };
+		24823A971B7672E70014B11C /* 13咏柳_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239C61B7672E60014B11C /* 13咏柳_唐老师_句1.mp3 */; };
+		24823A981B7672E70014B11C /* 13咏柳_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239C71B7672E60014B11C /* 13咏柳_唐老师_句2.mp3 */; };
+		24823A991B7672E70014B11C /* 13咏柳_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239C81B7672E60014B11C /* 13咏柳_唐老师_句3.mp3 */; };
+		24823A9A1B7672E70014B11C /* 13咏柳_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239C91B7672E60014B11C /* 13咏柳_唐老师_句4.mp3 */; };
+		24823A9B1B7672E70014B11C /* 13咏柳_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239CA1B7672E60014B11C /* 13咏柳_唐老师.mp3 */; };
+		24823A9C1B7672E70014B11C /* 13咏柳_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239CB1B7672E60014B11C /* 13咏柳_周老师_句1.mp3 */; };
+		24823A9D1B7672E70014B11C /* 13咏柳_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239CC1B7672E60014B11C /* 13咏柳_周老师_句2.mp3 */; };
+		24823A9E1B7672E70014B11C /* 13咏柳_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239CD1B7672E60014B11C /* 13咏柳_周老师_句3.mp3 */; };
+		24823A9F1B7672E70014B11C /* 13咏柳_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239CE1B7672E60014B11C /* 13咏柳_周老师_句4.mp3 */; };
+		24823AA01B7672E70014B11C /* 13咏柳_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239CF1B7672E60014B11C /* 13咏柳_周老师.mp3 */; };
+		24823AA61B7672E70014B11C /* 00枫桥夜泊_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239D51B7672E60014B11C /* 00枫桥夜泊_唐老师_句1.mp3 */; };
+		24823AA71B7672E70014B11C /* 00枫桥夜泊_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239D61B7672E60014B11C /* 00枫桥夜泊_唐老师_句2.mp3 */; };
+		24823AA81B7672E70014B11C /* 00枫桥夜泊_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239D71B7672E60014B11C /* 00枫桥夜泊_唐老师_句3.mp3 */; };
+		24823AA91B7672E70014B11C /* 00枫桥夜泊_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239D81B7672E60014B11C /* 00枫桥夜泊_唐老师_句4.mp3 */; };
+		24823AAA1B7672E70014B11C /* 00枫桥夜泊_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239D91B7672E60014B11C /* 00枫桥夜泊_唐老师.mp3 */; };
+		24823AAB1B7672E70014B11C /* 00枫桥夜泊_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239DA1B7672E60014B11C /* 00枫桥夜泊_周老师_句1.mp3 */; };
+		24823AAC1B7672E70014B11C /* 00枫桥夜泊_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239DB1B7672E60014B11C /* 00枫桥夜泊_周老师_句2.mp3 */; };
+		24823AAD1B7672E70014B11C /* 00枫桥夜泊_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239DC1B7672E60014B11C /* 00枫桥夜泊_周老师_句3.mp3 */; };
+		24823AAE1B7672E70014B11C /* 00枫桥夜泊_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239DD1B7672E60014B11C /* 00枫桥夜泊_周老师_句4.mp3 */; };
+		24823AAF1B7672E70014B11C /* 00枫桥夜泊_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239DE1B7672E60014B11C /* 00枫桥夜泊_周老师.mp3 */; };
+		24823AB51B7672E70014B11C /* 01登鹳雀楼_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239E41B7672E60014B11C /* 01登鹳雀楼_唐老师_句1.mp3 */; };
+		24823AB61B7672E70014B11C /* 01登鹳雀楼_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239E51B7672E60014B11C /* 01登鹳雀楼_唐老师_句2.mp3 */; };
+		24823AB71B7672E70014B11C /* 01登鹳雀楼_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239E61B7672E60014B11C /* 01登鹳雀楼_唐老师_句3.mp3 */; };
+		24823AB81B7672E70014B11C /* 01登鹳雀楼_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239E71B7672E60014B11C /* 01登鹳雀楼_唐老师_句4.mp3 */; };
+		24823AB91B7672E70014B11C /* 01登鹳雀楼_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239E81B7672E60014B11C /* 01登鹳雀楼_唐老师.mp3 */; };
+		24823ABA1B7672E70014B11C /* 01登鹳雀楼_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239E91B7672E60014B11C /* 01登鹳雀楼_周老师_句1.mp3 */; };
+		24823ABB1B7672E70014B11C /* 01登鹳雀楼_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239EA1B7672E60014B11C /* 01登鹳雀楼_周老师_句2.mp3 */; };
+		24823ABC1B7672E70014B11C /* 01登鹳雀楼_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239EB1B7672E60014B11C /* 01登鹳雀楼_周老师_句3.mp3 */; };
+		24823ABD1B7672E70014B11C /* 01登鹳雀楼_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239EC1B7672E60014B11C /* 01登鹳雀楼_周老师_句4.mp3 */; };
+		24823ABE1B7672E70014B11C /* 01登鹳雀楼_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239ED1B7672E60014B11C /* 01登鹳雀楼_周老师.mp3 */; };
+		24823ACF1B7672E70014B11C /* 12山行_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239FE1B7672E60014B11C /* 12山行_唐老师_句1.mp3 */; };
+		24823AD01B7672E70014B11C /* 12山行_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 248239FF1B7672E60014B11C /* 12山行_唐老师_句2.mp3 */; };
+		24823AD11B7672E70014B11C /* 12山行_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A001B7672E60014B11C /* 12山行_唐老师_句3.mp3 */; };
+		24823AD21B7672E70014B11C /* 12山行_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A011B7672E70014B11C /* 12山行_唐老师_句4.mp3 */; };
+		24823AD31B7672E70014B11C /* 12山行_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A021B7672E70014B11C /* 12山行_唐老师.mp3 */; };
+		24823AD41B7672E70014B11C /* 12山行_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A031B7672E70014B11C /* 12山行_周老师_句1.mp3 */; };
+		24823AD51B7672E70014B11C /* 12山行_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A041B7672E70014B11C /* 12山行_周老师_句2.mp3 */; };
+		24823AD61B7672E70014B11C /* 12山行_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A051B7672E70014B11C /* 12山行_周老师_句3.mp3 */; };
+		24823AD71B7672E70014B11C /* 12山行_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A061B7672E70014B11C /* 12山行_周老师_句4.mp3 */; };
+		24823AD81B7672E70014B11C /* 12山行_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A071B7672E70014B11C /* 12山行_周老师.mp3 */; };
+		24823ADE1B7672E70014B11C /* 11暮江吟_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A0D1B7672E70014B11C /* 11暮江吟_唐老师_句1.mp3 */; };
+		24823ADF1B7672E70014B11C /* 11暮江吟_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A0E1B7672E70014B11C /* 11暮江吟_唐老师_句2.mp3 */; };
+		24823AE01B7672E70014B11C /* 11暮江吟_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A0F1B7672E70014B11C /* 11暮江吟_唐老师_句3.mp3 */; };
+		24823AE11B7672E70014B11C /* 11暮江吟_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A101B7672E70014B11C /* 11暮江吟_唐老师_句4.mp3 */; };
+		24823AE21B7672E70014B11C /* 11暮江吟_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A111B7672E70014B11C /* 11暮江吟_唐老师.mp3 */; };
+		24823AE31B7672E70014B11C /* 11暮江吟_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A121B7672E70014B11C /* 11暮江吟_周老师_句1.mp3 */; };
+		24823AE41B7672E70014B11C /* 11暮江吟_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A131B7672E70014B11C /* 11暮江吟_周老师_句2.mp3 */; };
+		24823AE51B7672E70014B11C /* 11暮江吟_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A141B7672E70014B11C /* 11暮江吟_周老师_句3.mp3 */; };
+		24823AE61B7672E70014B11C /* 11暮江吟_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A151B7672E70014B11C /* 11暮江吟_周老师_句4.mp3 */; };
+		24823AE71B7672E70014B11C /* 11暮江吟_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A161B7672E70014B11C /* 11暮江吟_周老师.mp3 */; };
+		24823AED1B7672E70014B11C /* 09出塞_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A1C1B7672E70014B11C /* 09出塞_唐老师_句1.mp3 */; };
+		24823AEE1B7672E70014B11C /* 09出塞_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A1D1B7672E70014B11C /* 09出塞_唐老师_句2.mp3 */; };
+		24823AEF1B7672E70014B11C /* 09出塞_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A1E1B7672E70014B11C /* 09出塞_唐老师_句3.mp3 */; };
+		24823AF01B7672E70014B11C /* 09出塞_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A1F1B7672E70014B11C /* 09出塞_唐老师_句4.mp3 */; };
+		24823AF11B7672E70014B11C /* 09出塞_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A201B7672E70014B11C /* 09出塞_唐老师.mp3 */; };
+		24823AF21B7672E70014B11C /* 09出塞_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A211B7672E70014B11C /* 09出塞_周老师_句1.mp3 */; };
+		24823AF31B7672E70014B11C /* 09出塞_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A221B7672E70014B11C /* 09出塞_周老师_句2.mp3 */; };
+		24823AF41B7672E70014B11C /* 09出塞_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A231B7672E70014B11C /* 09出塞_周老师_句3.mp3 */; };
+		24823AF51B7672E70014B11C /* 09出塞_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A241B7672E70014B11C /* 09出塞_周老师_句4.mp3 */; };
+		24823AF61B7672E70014B11C /* 09出塞_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A251B7672E70014B11C /* 09出塞_周老师.mp3 */; };
+		24823AFC1B7672E70014B11C /* 10塞下曲_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A2B1B7672E70014B11C /* 10塞下曲_唐老师_句1.mp3 */; };
+		24823AFD1B7672E70014B11C /* 10塞下曲_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A2C1B7672E70014B11C /* 10塞下曲_唐老师_句2.mp3 */; };
+		24823AFE1B7672E70014B11C /* 10塞下曲_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A2D1B7672E70014B11C /* 10塞下曲_唐老师_句3.mp3 */; };
+		24823AFF1B7672E70014B11C /* 10塞下曲_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A2E1B7672E70014B11C /* 10塞下曲_唐老师_句4.mp3 */; };
+		24823B001B7672E70014B11C /* 10塞下曲_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A2F1B7672E70014B11C /* 10塞下曲_唐老师.mp3 */; };
+		24823B011B7672E70014B11C /* 10塞下曲_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A301B7672E70014B11C /* 10塞下曲_周老师_句1.mp3 */; };
+		24823B021B7672E70014B11C /* 10塞下曲_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A311B7672E70014B11C /* 10塞下曲_周老师_句2.mp3 */; };
+		24823B031B7672E70014B11C /* 10塞下曲_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A321B7672E70014B11C /* 10塞下曲_周老师_句3.mp3 */; };
+		24823B041B7672E70014B11C /* 10塞下曲_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A331B7672E70014B11C /* 10塞下曲_周老师_句4.mp3 */; };
+		24823B051B7672E70014B11C /* 10塞下曲_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823A341B7672E70014B11C /* 10塞下曲_周老师.mp3 */; };
+		24823B651B7673040014B11C /* 14江雪_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B0B1B7673040014B11C /* 14江雪_唐老师_句1.mp3 */; };
+		24823B661B7673040014B11C /* 14江雪_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B0C1B7673040014B11C /* 14江雪_唐老师_句2.mp3 */; };
+		24823B671B7673040014B11C /* 14江雪_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B0D1B7673040014B11C /* 14江雪_唐老师_句3.mp3 */; };
+		24823B681B7673040014B11C /* 14江雪_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B0E1B7673040014B11C /* 14江雪_唐老师_句4.mp3 */; };
+		24823B691B7673040014B11C /* 14江雪_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B0F1B7673040014B11C /* 14江雪_唐老师.mp3 */; };
+		24823B6A1B7673040014B11C /* 14江雪_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B101B7673040014B11C /* 14江雪_周老师_句1.mp3 */; };
+		24823B6B1B7673040014B11C /* 14江雪_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B111B7673040014B11C /* 14江雪_周老师_句2.mp3 */; };
+		24823B6C1B7673040014B11C /* 14江雪_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B121B7673040014B11C /* 14江雪_周老师_句3.mp3 */; };
+		24823B6D1B7673040014B11C /* 14江雪_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B131B7673040014B11C /* 14江雪_周老师_句4.mp3 */; };
+		24823B6E1B7673040014B11C /* 14江雪_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B141B7673040014B11C /* 14江雪_周老师.mp3 */; };
+		24823B741B7673040014B11C /* 15滁州西涧_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B1A1B7673040014B11C /* 15滁州西涧_唐老师_句1.mp3 */; };
+		24823B751B7673040014B11C /* 15滁州西涧_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B1B1B7673040014B11C /* 15滁州西涧_唐老师_句2.mp3 */; };
+		24823B761B7673040014B11C /* 15滁州西涧_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B1C1B7673040014B11C /* 15滁州西涧_唐老师_句3.mp3 */; };
+		24823B771B7673040014B11C /* 15滁州西涧_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B1D1B7673040014B11C /* 15滁州西涧_唐老师_句4.mp3 */; };
+		24823B781B7673040014B11C /* 15滁州西涧_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B1E1B7673040014B11C /* 15滁州西涧_唐老师.mp3 */; };
+		24823B791B7673040014B11C /* 15滁州西涧_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B1F1B7673040014B11C /* 15滁州西涧_周老师_句1.mp3 */; };
+		24823B7A1B7673040014B11C /* 15滁州西涧_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B201B7673040014B11C /* 15滁州西涧_周老师_句2.mp3 */; };
+		24823B7B1B7673040014B11C /* 15滁州西涧_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B211B7673040014B11C /* 15滁州西涧_周老师_句3.mp3 */; };
+		24823B7C1B7673040014B11C /* 15滁州西涧_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B221B7673040014B11C /* 15滁州西涧_周老师_句4.mp3 */; };
+		24823B7D1B7673040014B11C /* 15滁州西涧_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B231B7673040014B11C /* 15滁州西涧_周老师.mp3 */; };
+		24823B831B7673040014B11C /* 16送元二使安西_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B291B7673040014B11C /* 16送元二使安西_唐老师_句1.mp3 */; };
+		24823B841B7673040014B11C /* 16送元二使安西_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B2A1B7673040014B11C /* 16送元二使安西_唐老师_句2.mp3 */; };
+		24823B851B7673040014B11C /* 16送元二使安西_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B2B1B7673040014B11C /* 16送元二使安西_唐老师_句3.mp3 */; };
+		24823B861B7673040014B11C /* 16送元二使安西_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B2C1B7673040014B11C /* 16送元二使安西_唐老师_句4.mp3 */; };
+		24823B871B7673040014B11C /* 16送元二使安西_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B2D1B7673040014B11C /* 16送元二使安西_唐老师.mp3 */; };
+		24823B881B7673040014B11C /* 16送元二使安西_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B2E1B7673040014B11C /* 16送元二使安西_周老师_句1.mp3 */; };
+		24823B891B7673040014B11C /* 16送元二使安西_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B2F1B7673040014B11C /* 16送元二使安西_周老师_句2.mp3 */; };
+		24823B8A1B7673040014B11C /* 16送元二使安西_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B301B7673040014B11C /* 16送元二使安西_周老师_句3.mp3 */; };
+		24823B8B1B7673040014B11C /* 16送元二使安西_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B311B7673040014B11C /* 16送元二使安西_周老师_句4.mp3 */; };
+		24823B8C1B7673040014B11C /* 16送元二使安西_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B321B7673040014B11C /* 16送元二使安西_周老师.mp3 */; };
+		24823B8D1B7673040014B11C /* 17别董大_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B331B7673040014B11C /* 17别董大_唐老师_句1.mp3 */; };
+		24823B8E1B7673040014B11C /* 17别董大_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B341B7673040014B11C /* 17别董大_唐老师_句2.mp3 */; };
+		24823B8F1B7673040014B11C /* 17别董大_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B351B7673040014B11C /* 17别董大_唐老师_句3.mp3 */; };
+		24823B901B7673040014B11C /* 17别董大_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B361B7673040014B11C /* 17别董大_唐老师_句4.mp3 */; };
+		24823B911B7673040014B11C /* 17别董大_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B371B7673040014B11C /* 17别董大_唐老师.mp3 */; };
+		24823B921B7673040014B11C /* 17别董大_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B381B7673040014B11C /* 17别董大_周老师_句1.mp3 */; };
+		24823B931B7673040014B11C /* 17别董大_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B391B7673040014B11C /* 17别董大_周老师_句2.mp3 */; };
+		24823B941B7673040014B11C /* 17别董大_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B3A1B7673040014B11C /* 17别董大_周老师_句3.mp3 */; };
+		24823B951B7673040014B11C /* 17别董大_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B3B1B7673040014B11C /* 17别董大_周老师_句4.mp3 */; };
+		24823B961B7673040014B11C /* 17别董大_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B3C1B7673040014B11C /* 17别董大_周老师.mp3 */; };
+		24823BA11B7673040014B11C /* 19乐游原_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B471B7673040014B11C /* 19乐游原_唐老师_句1.mp3 */; };
+		24823BA21B7673040014B11C /* 19乐游原_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B481B7673040014B11C /* 19乐游原_唐老师_句2.mp3 */; };
+		24823BA31B7673040014B11C /* 19乐游原_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B491B7673040014B11C /* 19乐游原_唐老师_句3.mp3 */; };
+		24823BA41B7673040014B11C /* 19乐游原_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B4A1B7673040014B11C /* 19乐游原_唐老师_句4.mp3 */; };
+		24823BA51B7673040014B11C /* 19乐游原_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B4B1B7673040014B11C /* 19乐游原_唐老师.mp3 */; };
+		24823BA61B7673040014B11C /* 19乐游原_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B4C1B7673040014B11C /* 19乐游原_周老师_句1.mp3 */; };
+		24823BA71B7673040014B11C /* 19乐游原_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B4D1B7673040014B11C /* 19乐游原_周老师_句2.mp3 */; };
+		24823BA81B7673040014B11C /* 19乐游原_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B4E1B7673040014B11C /* 19乐游原_周老师_句3.mp3 */; };
+		24823BA91B7673040014B11C /* 19乐游原_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B4F1B7673040014B11C /* 19乐游原_周老师_句4.mp3 */; };
+		24823BAA1B7673040014B11C /* 19乐游原_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B501B7673040014B11C /* 19乐游原_周老师.mp3 */; };
+		24823BB51B7673040014B11C /* 18早春_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B5B1B7673040014B11C /* 18早春_唐老师_句1.mp3 */; };
+		24823BB61B7673040014B11C /* 18早春_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B5C1B7673040014B11C /* 18早春_唐老师_句2.mp3 */; };
+		24823BB71B7673040014B11C /* 18早春_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B5D1B7673040014B11C /* 18早春_唐老师_句3.mp3 */; };
+		24823BB81B7673040014B11C /* 18早春_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B5E1B7673040014B11C /* 18早春_唐老师_句4.mp3 */; };
+		24823BB91B7673040014B11C /* 18早春_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823B5F1B7673040014B11C /* 18早春_唐老师.mp3 */; };
+		24823C0A1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BBF1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句1.mp3 */; };
+		24823C0B1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC01B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句2.mp3 */; };
+		24823C0C1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC11B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句3.mp3 */; };
+		24823C0D1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC21B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句4.mp3 */; };
+		24823C0E1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC31B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师.mp3 */; };
+		24823C0F1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC41B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句1.mp3 */; };
+		24823C101B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC51B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句2.mp3 */; };
+		24823C111B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC61B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句3.mp3 */; };
+		24823C121B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC71B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句4.mp3 */; };
+		24823C131B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BC81B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师.mp3 */; };
+		24823C191B7673190014B11C /* 21夜上受降城闻笛_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BCE1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句1.mp3 */; };
+		24823C1A1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BCF1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句2.mp3 */; };
+		24823C1B1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD01B7673190014B11C /* 21夜上受降城闻笛_唐老师_句3.mp3 */; };
+		24823C1C1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD11B7673190014B11C /* 21夜上受降城闻笛_唐老师_句4.mp3 */; };
+		24823C1D1B7673190014B11C /* 21夜上受降城闻笛_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD21B7673190014B11C /* 21夜上受降城闻笛_唐老师.mp3 */; };
+		24823C1E1B7673190014B11C /* 21夜上受降城闻笛_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD31B7673190014B11C /* 21夜上受降城闻笛_周老师_句1.mp3 */; };
+		24823C1F1B7673190014B11C /* 21夜上受降城闻笛_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD41B7673190014B11C /* 21夜上受降城闻笛_周老师_句2.mp3 */; };
+		24823C201B7673190014B11C /* 21夜上受降城闻笛_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD51B7673190014B11C /* 21夜上受降城闻笛_周老师_句3.mp3 */; };
+		24823C211B7673190014B11C /* 21夜上受降城闻笛_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD61B7673190014B11C /* 21夜上受降城闻笛_周老师_句4.mp3 */; };
+		24823C221B7673190014B11C /* 21夜上受降城闻笛_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BD71B7673190014B11C /* 21夜上受降城闻笛_周老师.mp3 */; };
+		24823C281B7673190014B11C /* 23逢入京使_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BDD1B7673190014B11C /* 23逢入京使_唐老师_句1.mp3 */; };
+		24823C291B7673190014B11C /* 23逢入京使_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BDE1B7673190014B11C /* 23逢入京使_唐老师_句2.mp3 */; };
+		24823C2A1B7673190014B11C /* 23逢入京使_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BDF1B7673190014B11C /* 23逢入京使_唐老师_句3.mp3 */; };
+		24823C2B1B7673190014B11C /* 23逢入京使_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BE01B7673190014B11C /* 23逢入京使_唐老师_句4.mp3 */; };
+		24823C2C1B7673190014B11C /* 23逢入京使_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BE11B7673190014B11C /* 23逢入京使_唐老师.mp3 */; };
+		24823C2D1B7673190014B11C /* 23逢入京使_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BE21B7673190014B11C /* 23逢入京使_周老师_句1.mp3 */; };
+		24823C2E1B7673190014B11C /* 23逢入京使_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BE31B7673190014B11C /* 23逢入京使_周老师_句2.mp3 */; };
+		24823C2F1B7673190014B11C /* 23逢入京使_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BE41B7673190014B11C /* 23逢入京使_周老师_句3.mp3 */; };
+		24823C301B7673190014B11C /* 23逢入京使_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BE51B7673190014B11C /* 23逢入京使_周老师_句4.mp3 */; };
+		24823C311B7673190014B11C /* 23逢入京使_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BE61B7673190014B11C /* 23逢入京使_周老师.mp3 */; };
+		24823C371B7673190014B11C /* 24凉州词_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BEC1B7673190014B11C /* 24凉州词_唐老师_句1.mp3 */; };
+		24823C381B7673190014B11C /* 24凉州词_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BED1B7673190014B11C /* 24凉州词_唐老师_句2.mp3 */; };
+		24823C391B7673190014B11C /* 24凉州词_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BEE1B7673190014B11C /* 24凉州词_唐老师_句3.mp3 */; };
+		24823C3A1B7673190014B11C /* 24凉州词_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BEF1B7673190014B11C /* 24凉州词_唐老师_句4.mp3 */; };
+		24823C3B1B7673190014B11C /* 24凉州词_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BF01B7673190014B11C /* 24凉州词_唐老师.mp3 */; };
+		24823C3C1B7673190014B11C /* 24凉州词_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BF11B7673190014B11C /* 24凉州词_周老师_句1.mp3 */; };
+		24823C3D1B7673190014B11C /* 24凉州词_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BF21B7673190014B11C /* 24凉州词_周老师_句2.mp3 */; };
+		24823C3E1B7673190014B11C /* 24凉州词_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BF31B7673190014B11C /* 24凉州词_周老师_句3.mp3 */; };
+		24823C3F1B7673190014B11C /* 24凉州词_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BF41B7673190014B11C /* 24凉州词_周老师_句4.mp3 */; };
+		24823C401B7673190014B11C /* 24凉州词_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BF51B7673190014B11C /* 24凉州词_周老师.mp3 */; };
+		24823C461B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BFB1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句1.mp3 */; };
+		24823C471B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BFC1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句2.mp3 */; };
+		24823C481B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BFD1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句3.mp3 */; };
+		24823C491B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BFE1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句4.mp3 */; };
+		24823C4A1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823BFF1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师.mp3 */; };
+		24823C4B1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823C001B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句1.mp3 */; };
+		24823C4C1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823C011B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句2.mp3 */; };
+		24823C4D1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823C021B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句3.mp3 */; };
+		24823C4E1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823C031B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句4.mp3 */; };
+		24823C4F1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24823C041B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师.mp3 */; };
+		249BE3371B75CBC700AC7F62 /* LilyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249BE3361B75CBC700AC7F62 /* LilyViewController.swift */; };
+		24A04D731B6DDB5500629D92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04D721B6DDB5500629D92 /* AppDelegate.swift */; };
+		24A04D7D1B6DDB5500629D92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24A04D7B1B6DDB5500629D92 /* LaunchScreen.storyboard */; };
+		24A04D881B6DDB5500629D92 /* poetryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04D871B6DDB5500629D92 /* poetryTests.swift */; };
+		24A04D931B6DDB5500629D92 /* poetryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04D921B6DDB5500629D92 /* poetryUITests.swift */; };
+		24A04DA11B6DE47400629D92 /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04DA01B6DE47400629D92 /* MenuTableViewController.swift */; };
+		24A04DA31B6E031B00629D92 /* MenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04DA21B6E031B00629D92 /* MenuTableViewCell.swift */; };
+		24A04DA51B6E089200629D92 /* poetryMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04DA41B6E089200629D92 /* poetryMenu.swift */; };
+		24A04DA61B6E089200629D92 /* poetryMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04DA41B6E089200629D92 /* poetryMenu.swift */; };
+		24A04DA71B6E089200629D92 /* poetryMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A04DA41B6E089200629D92 /* poetryMenu.swift */; };
+		24B022921B7B79C900B6B76B /* 18早春_周老师_句3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24B022911B7B79C900B6B76B /* 18早春_周老师_句3.mp3 */; };
+		24C2FDB41B70D53800A1A504 /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C2FDB31B70D53800A1A504 /* ContentViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		24A04D841B6DDB5500629D92 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24A04D671B6DDB5500629D92 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24A04D6E1B6DDB5500629D92;
+			remoteInfo = poetry;
+		};
+		24A04D8F1B6DDB5500629D92 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24A04D671B6DDB5500629D92 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24A04D6E1B6DDB5500629D92;
+			remoteInfo = poetry;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		245AA0751B7386350033A9F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		246650E41B778BE9009261FC /* 02望庐山瀑布_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		246650E51B778BE9009261FC /* 02望庐山瀑布_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		246650E61B778BE9009261FC /* 02望庐山瀑布_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		246650E71B778BE9009261FC /* 02望庐山瀑布_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		246650E81B778BE9009261FC /* 02望庐山瀑布_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_唐老师.mp3"; sourceTree = "<group>"; };
+		246650E91B778BE9009261FC /* 02望庐山瀑布_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_周老师_句1.mp3"; sourceTree = "<group>"; };
+		246650EA1B778BE9009261FC /* 02望庐山瀑布_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_周老师_句2.mp3"; sourceTree = "<group>"; };
+		246650EB1B778BE9009261FC /* 02望庐山瀑布_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_周老师_句4.mp3"; sourceTree = "<group>"; };
+		246650EC1B778BE9009261FC /* 02望庐山瀑布_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_周老师.mp3"; sourceTree = "<group>"; };
+		246650FB1B778D3C009261FC /* 02望庐山瀑布_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02望庐山瀑布_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24810ED91B78B42200E21F28 /* 07绝句_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24810EDA1B78B42200E21F28 /* 07绝句_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24810EDB1B78B42200E21F28 /* 07绝句_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24810EDC1B78B42200E21F28 /* 07绝句_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24810EDD1B78B42200E21F28 /* 07绝句_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_周老师.mp3"; sourceTree = "<group>"; };
+		24810EE31B78B43200E21F28 /* 18早春_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24810EE41B78B43200E21F28 /* 18早春_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24810EE61B78B43200E21F28 /* 18早春_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24810EE71B78B43200E21F28 /* 18早春_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_周老师.mp3"; sourceTree = "<group>"; };
+		248239561B7669D60014B11C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2482396C1B7672E60014B11C /* 03早发白帝城_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		2482396D1B7672E60014B11C /* 03早发白帝城_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		2482396E1B7672E60014B11C /* 03早发白帝城_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		2482396F1B7672E60014B11C /* 03早发白帝城_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		248239701B7672E60014B11C /* 03早发白帝城_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_唐老师.mp3"; sourceTree = "<group>"; };
+		248239711B7672E60014B11C /* 03早发白帝城_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_周老师_句1.mp3"; sourceTree = "<group>"; };
+		248239721B7672E60014B11C /* 03早发白帝城_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239731B7672E60014B11C /* 03早发白帝城_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239741B7672E60014B11C /* 03早发白帝城_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239751B7672E60014B11C /* 03早发白帝城_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03早发白帝城_周老师.mp3"; sourceTree = "<group>"; };
+		2482397B1B7672E60014B11C /* 04静夜思_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		2482397C1B7672E60014B11C /* 04静夜思_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		2482397D1B7672E60014B11C /* 04静夜思_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		2482397E1B7672E60014B11C /* 04静夜思_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		2482397F1B7672E60014B11C /* 04静夜思_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_唐老师.mp3"; sourceTree = "<group>"; };
+		248239801B7672E60014B11C /* 04静夜思_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_周老师_句1.mp3"; sourceTree = "<group>"; };
+		248239811B7672E60014B11C /* 04静夜思_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239821B7672E60014B11C /* 04静夜思_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239831B7672E60014B11C /* 04静夜思_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239841B7672E60014B11C /* 04静夜思_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04静夜思_周老师.mp3"; sourceTree = "<group>"; };
+		2482398A1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		2482398B1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		2482398C1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		2482398D1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		2482398E1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_唐老师.mp3"; sourceTree = "<group>"; };
+		2482398F1B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_周老师_句1.mp3"; sourceTree = "<group>"; };
+		248239901B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239911B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239921B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239931B7672E60014B11C /* 05九月九日忆山东兄弟_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05九月九日忆山东兄弟_周老师.mp3"; sourceTree = "<group>"; };
+		248239991B7672E60014B11C /* 06春晓_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		2482399A1B7672E60014B11C /* 06春晓_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		2482399B1B7672E60014B11C /* 06春晓_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		2482399C1B7672E60014B11C /* 06春晓_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		2482399D1B7672E60014B11C /* 06春晓_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_唐老师.mp3"; sourceTree = "<group>"; };
+		2482399E1B7672E60014B11C /* 06春晓_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_周老师_句1.mp3"; sourceTree = "<group>"; };
+		2482399F1B7672E60014B11C /* 06春晓_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239A01B7672E60014B11C /* 06春晓_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239A11B7672E60014B11C /* 06春晓_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239A21B7672E60014B11C /* 06春晓_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06春晓_周老师.mp3"; sourceTree = "<group>"; };
+		248239A81B7672E60014B11C /* 07绝句_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		248239A91B7672E60014B11C /* 07绝句_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		248239AA1B7672E60014B11C /* 07绝句_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		248239AB1B7672E60014B11C /* 07绝句_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		248239AC1B7672E60014B11C /* 07绝句_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07绝句_唐老师.mp3"; sourceTree = "<group>"; };
+		248239B71B7672E60014B11C /* 08秋夕_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		248239B81B7672E60014B11C /* 08秋夕_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		248239B91B7672E60014B11C /* 08秋夕_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		248239BA1B7672E60014B11C /* 08秋夕_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		248239BB1B7672E60014B11C /* 08秋夕_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_唐老师.mp3"; sourceTree = "<group>"; };
+		248239BC1B7672E60014B11C /* 08秋夕_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_周老师_句1.mp3"; sourceTree = "<group>"; };
+		248239BD1B7672E60014B11C /* 08秋夕_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239BE1B7672E60014B11C /* 08秋夕_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239BF1B7672E60014B11C /* 08秋夕_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239C01B7672E60014B11C /* 08秋夕_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08秋夕_周老师.mp3"; sourceTree = "<group>"; };
+		248239C61B7672E60014B11C /* 13咏柳_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		248239C71B7672E60014B11C /* 13咏柳_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		248239C81B7672E60014B11C /* 13咏柳_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		248239C91B7672E60014B11C /* 13咏柳_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		248239CA1B7672E60014B11C /* 13咏柳_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_唐老师.mp3"; sourceTree = "<group>"; };
+		248239CB1B7672E60014B11C /* 13咏柳_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_周老师_句1.mp3"; sourceTree = "<group>"; };
+		248239CC1B7672E60014B11C /* 13咏柳_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239CD1B7672E60014B11C /* 13咏柳_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239CE1B7672E60014B11C /* 13咏柳_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239CF1B7672E60014B11C /* 13咏柳_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13咏柳_周老师.mp3"; sourceTree = "<group>"; };
+		248239D51B7672E60014B11C /* 00枫桥夜泊_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		248239D61B7672E60014B11C /* 00枫桥夜泊_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		248239D71B7672E60014B11C /* 00枫桥夜泊_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		248239D81B7672E60014B11C /* 00枫桥夜泊_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		248239D91B7672E60014B11C /* 00枫桥夜泊_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_唐老师.mp3"; sourceTree = "<group>"; };
+		248239DA1B7672E60014B11C /* 00枫桥夜泊_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_周老师_句1.mp3"; sourceTree = "<group>"; };
+		248239DB1B7672E60014B11C /* 00枫桥夜泊_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239DC1B7672E60014B11C /* 00枫桥夜泊_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239DD1B7672E60014B11C /* 00枫桥夜泊_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239DE1B7672E60014B11C /* 00枫桥夜泊_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "00枫桥夜泊_周老师.mp3"; sourceTree = "<group>"; };
+		248239E41B7672E60014B11C /* 01登鹳雀楼_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		248239E51B7672E60014B11C /* 01登鹳雀楼_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		248239E61B7672E60014B11C /* 01登鹳雀楼_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		248239E71B7672E60014B11C /* 01登鹳雀楼_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		248239E81B7672E60014B11C /* 01登鹳雀楼_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_唐老师.mp3"; sourceTree = "<group>"; };
+		248239E91B7672E60014B11C /* 01登鹳雀楼_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_周老师_句1.mp3"; sourceTree = "<group>"; };
+		248239EA1B7672E60014B11C /* 01登鹳雀楼_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_周老师_句2.mp3"; sourceTree = "<group>"; };
+		248239EB1B7672E60014B11C /* 01登鹳雀楼_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_周老师_句3.mp3"; sourceTree = "<group>"; };
+		248239EC1B7672E60014B11C /* 01登鹳雀楼_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_周老师_句4.mp3"; sourceTree = "<group>"; };
+		248239ED1B7672E60014B11C /* 01登鹳雀楼_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01登鹳雀楼_周老师.mp3"; sourceTree = "<group>"; };
+		248239FE1B7672E60014B11C /* 12山行_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		248239FF1B7672E60014B11C /* 12山行_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A001B7672E60014B11C /* 12山行_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A011B7672E70014B11C /* 12山行_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A021B7672E70014B11C /* 12山行_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_唐老师.mp3"; sourceTree = "<group>"; };
+		24823A031B7672E70014B11C /* 12山行_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823A041B7672E70014B11C /* 12山行_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A051B7672E70014B11C /* 12山行_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A061B7672E70014B11C /* 12山行_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A071B7672E70014B11C /* 12山行_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12山行_周老师.mp3"; sourceTree = "<group>"; };
+		24823A0D1B7672E70014B11C /* 11暮江吟_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823A0E1B7672E70014B11C /* 11暮江吟_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A0F1B7672E70014B11C /* 11暮江吟_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A101B7672E70014B11C /* 11暮江吟_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A111B7672E70014B11C /* 11暮江吟_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_唐老师.mp3"; sourceTree = "<group>"; };
+		24823A121B7672E70014B11C /* 11暮江吟_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823A131B7672E70014B11C /* 11暮江吟_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A141B7672E70014B11C /* 11暮江吟_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A151B7672E70014B11C /* 11暮江吟_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A161B7672E70014B11C /* 11暮江吟_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11暮江吟_周老师.mp3"; sourceTree = "<group>"; };
+		24823A1C1B7672E70014B11C /* 09出塞_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823A1D1B7672E70014B11C /* 09出塞_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A1E1B7672E70014B11C /* 09出塞_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A1F1B7672E70014B11C /* 09出塞_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A201B7672E70014B11C /* 09出塞_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_唐老师.mp3"; sourceTree = "<group>"; };
+		24823A211B7672E70014B11C /* 09出塞_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823A221B7672E70014B11C /* 09出塞_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A231B7672E70014B11C /* 09出塞_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A241B7672E70014B11C /* 09出塞_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A251B7672E70014B11C /* 09出塞_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09出塞_周老师.mp3"; sourceTree = "<group>"; };
+		24823A2B1B7672E70014B11C /* 10塞下曲_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823A2C1B7672E70014B11C /* 10塞下曲_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A2D1B7672E70014B11C /* 10塞下曲_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A2E1B7672E70014B11C /* 10塞下曲_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A2F1B7672E70014B11C /* 10塞下曲_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_唐老师.mp3"; sourceTree = "<group>"; };
+		24823A301B7672E70014B11C /* 10塞下曲_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823A311B7672E70014B11C /* 10塞下曲_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823A321B7672E70014B11C /* 10塞下曲_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823A331B7672E70014B11C /* 10塞下曲_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823A341B7672E70014B11C /* 10塞下曲_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10塞下曲_周老师.mp3"; sourceTree = "<group>"; };
+		24823B0B1B7673040014B11C /* 14江雪_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B0C1B7673040014B11C /* 14江雪_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B0D1B7673040014B11C /* 14江雪_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B0E1B7673040014B11C /* 14江雪_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B0F1B7673040014B11C /* 14江雪_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_唐老师.mp3"; sourceTree = "<group>"; };
+		24823B101B7673040014B11C /* 14江雪_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B111B7673040014B11C /* 14江雪_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B121B7673040014B11C /* 14江雪_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B131B7673040014B11C /* 14江雪_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B141B7673040014B11C /* 14江雪_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14江雪_周老师.mp3"; sourceTree = "<group>"; };
+		24823B1A1B7673040014B11C /* 15滁州西涧_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B1B1B7673040014B11C /* 15滁州西涧_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B1C1B7673040014B11C /* 15滁州西涧_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B1D1B7673040014B11C /* 15滁州西涧_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B1E1B7673040014B11C /* 15滁州西涧_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_唐老师.mp3"; sourceTree = "<group>"; };
+		24823B1F1B7673040014B11C /* 15滁州西涧_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B201B7673040014B11C /* 15滁州西涧_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B211B7673040014B11C /* 15滁州西涧_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B221B7673040014B11C /* 15滁州西涧_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B231B7673040014B11C /* 15滁州西涧_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15滁州西涧_周老师.mp3"; sourceTree = "<group>"; };
+		24823B291B7673040014B11C /* 16送元二使安西_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B2A1B7673040014B11C /* 16送元二使安西_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B2B1B7673040014B11C /* 16送元二使安西_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B2C1B7673040014B11C /* 16送元二使安西_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B2D1B7673040014B11C /* 16送元二使安西_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_唐老师.mp3"; sourceTree = "<group>"; };
+		24823B2E1B7673040014B11C /* 16送元二使安西_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B2F1B7673040014B11C /* 16送元二使安西_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B301B7673040014B11C /* 16送元二使安西_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B311B7673040014B11C /* 16送元二使安西_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B321B7673040014B11C /* 16送元二使安西_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16送元二使安西_周老师.mp3"; sourceTree = "<group>"; };
+		24823B331B7673040014B11C /* 17别董大_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B341B7673040014B11C /* 17别董大_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B351B7673040014B11C /* 17别董大_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B361B7673040014B11C /* 17别董大_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B371B7673040014B11C /* 17别董大_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_唐老师.mp3"; sourceTree = "<group>"; };
+		24823B381B7673040014B11C /* 17别董大_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B391B7673040014B11C /* 17别董大_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B3A1B7673040014B11C /* 17别董大_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B3B1B7673040014B11C /* 17别董大_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B3C1B7673040014B11C /* 17别董大_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17别董大_周老师.mp3"; sourceTree = "<group>"; };
+		24823B471B7673040014B11C /* 19乐游原_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B481B7673040014B11C /* 19乐游原_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B491B7673040014B11C /* 19乐游原_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B4A1B7673040014B11C /* 19乐游原_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B4B1B7673040014B11C /* 19乐游原_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_唐老师.mp3"; sourceTree = "<group>"; };
+		24823B4C1B7673040014B11C /* 19乐游原_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B4D1B7673040014B11C /* 19乐游原_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B4E1B7673040014B11C /* 19乐游原_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B4F1B7673040014B11C /* 19乐游原_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B501B7673040014B11C /* 19乐游原_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "19乐游原_周老师.mp3"; sourceTree = "<group>"; };
+		24823B5B1B7673040014B11C /* 18早春_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823B5C1B7673040014B11C /* 18早春_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823B5D1B7673040014B11C /* 18早春_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823B5E1B7673040014B11C /* 18早春_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823B5F1B7673040014B11C /* 18早春_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_唐老师.mp3"; sourceTree = "<group>"; };
+		24823BBF1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BC01B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BC11B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BC21B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BC31B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_唐老师.mp3"; sourceTree = "<group>"; };
+		24823BC41B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BC51B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BC61B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BC71B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BC81B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "20黄鹤楼送孟浩然之广陵_周老师.mp3"; sourceTree = "<group>"; };
+		24823BCE1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BCF1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BD01B7673190014B11C /* 21夜上受降城闻笛_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BD11B7673190014B11C /* 21夜上受降城闻笛_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BD21B7673190014B11C /* 21夜上受降城闻笛_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_唐老师.mp3"; sourceTree = "<group>"; };
+		24823BD31B7673190014B11C /* 21夜上受降城闻笛_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BD41B7673190014B11C /* 21夜上受降城闻笛_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BD51B7673190014B11C /* 21夜上受降城闻笛_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BD61B7673190014B11C /* 21夜上受降城闻笛_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BD71B7673190014B11C /* 21夜上受降城闻笛_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21夜上受降城闻笛_周老师.mp3"; sourceTree = "<group>"; };
+		24823BDD1B7673190014B11C /* 23逢入京使_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BDE1B7673190014B11C /* 23逢入京使_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BDF1B7673190014B11C /* 23逢入京使_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BE01B7673190014B11C /* 23逢入京使_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BE11B7673190014B11C /* 23逢入京使_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_唐老师.mp3"; sourceTree = "<group>"; };
+		24823BE21B7673190014B11C /* 23逢入京使_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BE31B7673190014B11C /* 23逢入京使_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BE41B7673190014B11C /* 23逢入京使_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BE51B7673190014B11C /* 23逢入京使_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BE61B7673190014B11C /* 23逢入京使_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "23逢入京使_周老师.mp3"; sourceTree = "<group>"; };
+		24823BEC1B7673190014B11C /* 24凉州词_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BED1B7673190014B11C /* 24凉州词_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BEE1B7673190014B11C /* 24凉州词_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BEF1B7673190014B11C /* 24凉州词_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BF01B7673190014B11C /* 24凉州词_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_唐老师.mp3"; sourceTree = "<group>"; };
+		24823BF11B7673190014B11C /* 24凉州词_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BF21B7673190014B11C /* 24凉州词_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BF31B7673190014B11C /* 24凉州词_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BF41B7673190014B11C /* 24凉州词_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BF51B7673190014B11C /* 24凉州词_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "24凉州词_周老师.mp3"; sourceTree = "<group>"; };
+		24823BFB1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_唐老师_句1.mp3"; sourceTree = "<group>"; };
+		24823BFC1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_唐老师_句2.mp3"; sourceTree = "<group>"; };
+		24823BFD1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_唐老师_句3.mp3"; sourceTree = "<group>"; };
+		24823BFE1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_唐老师_句4.mp3"; sourceTree = "<group>"; };
+		24823BFF1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_唐老师.mp3"; sourceTree = "<group>"; };
+		24823C001B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_周老师_句1.mp3"; sourceTree = "<group>"; };
+		24823C011B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_周老师_句2.mp3"; sourceTree = "<group>"; };
+		24823C021B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24823C031B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_周老师_句4.mp3"; sourceTree = "<group>"; };
+		24823C041B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "22逢雪宿芙蓉山主人_周老师.mp3"; sourceTree = "<group>"; };
+		249BE3361B75CBC700AC7F62 /* LilyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LilyViewController.swift; sourceTree = "<group>"; };
+		24A04D6F1B6DDB5500629D92 /* poetry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = poetry.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A04D721B6DDB5500629D92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		24A04D7C1B6DDB5500629D92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		24A04D7E1B6DDB5500629D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A04D831B6DDB5500629D92 /* poetryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = poetryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A04D871B6DDB5500629D92 /* poetryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = poetryTests.swift; sourceTree = "<group>"; };
+		24A04D891B6DDB5500629D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A04D8E1B6DDB5500629D92 /* poetryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = poetryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A04D921B6DDB5500629D92 /* poetryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = poetryUITests.swift; sourceTree = "<group>"; };
+		24A04D941B6DDB5500629D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A04DA01B6DE47400629D92 /* MenuTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
+		24A04DA21B6E031B00629D92 /* MenuTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuTableViewCell.swift; sourceTree = "<group>"; };
+		24A04DA41B6E089200629D92 /* poetryMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = poetryMenu.swift; sourceTree = "<group>"; };
+		24B022911B7B79C900B6B76B /* 18早春_周老师_句3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18早春_周老师_句3.mp3"; sourceTree = "<group>"; };
+		24C2FDB31B70D53800A1A504 /* ContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		24A04D6C1B6DDB5500629D92 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A04D801B6DDB5500629D92 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A04D8B1B6DDB5500629D92 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		24424E641B72757A005108CF /* audio files */ = {
+			isa = PBXGroup;
+			children = (
+				246650E41B778BE9009261FC /* 02望庐山瀑布_唐老师_句1.mp3 */,
+				246650E51B778BE9009261FC /* 02望庐山瀑布_唐老师_句2.mp3 */,
+				246650E61B778BE9009261FC /* 02望庐山瀑布_唐老师_句3.mp3 */,
+				246650E71B778BE9009261FC /* 02望庐山瀑布_唐老师_句4.mp3 */,
+				246650E81B778BE9009261FC /* 02望庐山瀑布_唐老师.mp3 */,
+				246650E91B778BE9009261FC /* 02望庐山瀑布_周老师_句1.mp3 */,
+				246650EA1B778BE9009261FC /* 02望庐山瀑布_周老师_句2.mp3 */,
+				246650FB1B778D3C009261FC /* 02望庐山瀑布_周老师_句3.mp3 */,
+				246650EB1B778BE9009261FC /* 02望庐山瀑布_周老师_句4.mp3 */,
+				246650EC1B778BE9009261FC /* 02望庐山瀑布_周老师.mp3 */,
+				24823BBF1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句1.mp3 */,
+				24823BC01B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句2.mp3 */,
+				24823BC11B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句3.mp3 */,
+				24823BC21B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句4.mp3 */,
+				24823BC31B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师.mp3 */,
+				24823BC41B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句1.mp3 */,
+				24823BC51B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句2.mp3 */,
+				24823BC61B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句3.mp3 */,
+				24823BC71B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句4.mp3 */,
+				24823BC81B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师.mp3 */,
+				24823BCE1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句1.mp3 */,
+				24823BCF1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句2.mp3 */,
+				24823BD01B7673190014B11C /* 21夜上受降城闻笛_唐老师_句3.mp3 */,
+				24823BD11B7673190014B11C /* 21夜上受降城闻笛_唐老师_句4.mp3 */,
+				24823BD21B7673190014B11C /* 21夜上受降城闻笛_唐老师.mp3 */,
+				24823BD31B7673190014B11C /* 21夜上受降城闻笛_周老师_句1.mp3 */,
+				24823BD41B7673190014B11C /* 21夜上受降城闻笛_周老师_句2.mp3 */,
+				24823BD51B7673190014B11C /* 21夜上受降城闻笛_周老师_句3.mp3 */,
+				24823BD61B7673190014B11C /* 21夜上受降城闻笛_周老师_句4.mp3 */,
+				24823BD71B7673190014B11C /* 21夜上受降城闻笛_周老师.mp3 */,
+				24823BDD1B7673190014B11C /* 23逢入京使_唐老师_句1.mp3 */,
+				24823BDE1B7673190014B11C /* 23逢入京使_唐老师_句2.mp3 */,
+				24823BDF1B7673190014B11C /* 23逢入京使_唐老师_句3.mp3 */,
+				24823BE01B7673190014B11C /* 23逢入京使_唐老师_句4.mp3 */,
+				24823BE11B7673190014B11C /* 23逢入京使_唐老师.mp3 */,
+				24823BE21B7673190014B11C /* 23逢入京使_周老师_句1.mp3 */,
+				24823BE31B7673190014B11C /* 23逢入京使_周老师_句2.mp3 */,
+				24823BE41B7673190014B11C /* 23逢入京使_周老师_句3.mp3 */,
+				24823BE51B7673190014B11C /* 23逢入京使_周老师_句4.mp3 */,
+				24823BE61B7673190014B11C /* 23逢入京使_周老师.mp3 */,
+				24823BEC1B7673190014B11C /* 24凉州词_唐老师_句1.mp3 */,
+				24823BED1B7673190014B11C /* 24凉州词_唐老师_句2.mp3 */,
+				24823BEE1B7673190014B11C /* 24凉州词_唐老师_句3.mp3 */,
+				24823BEF1B7673190014B11C /* 24凉州词_唐老师_句4.mp3 */,
+				24823BF01B7673190014B11C /* 24凉州词_唐老师.mp3 */,
+				24823BF11B7673190014B11C /* 24凉州词_周老师_句1.mp3 */,
+				24823BF21B7673190014B11C /* 24凉州词_周老师_句2.mp3 */,
+				24823BF31B7673190014B11C /* 24凉州词_周老师_句3.mp3 */,
+				24823BF41B7673190014B11C /* 24凉州词_周老师_句4.mp3 */,
+				24823BF51B7673190014B11C /* 24凉州词_周老师.mp3 */,
+				24823BFB1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句1.mp3 */,
+				24823BFC1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句2.mp3 */,
+				24823BFD1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句3.mp3 */,
+				24823BFE1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句4.mp3 */,
+				24823BFF1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师.mp3 */,
+				24823C001B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句1.mp3 */,
+				24823C011B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句2.mp3 */,
+				24823C021B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句3.mp3 */,
+				24823C031B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句4.mp3 */,
+				24823C041B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师.mp3 */,
+				24823B0B1B7673040014B11C /* 14江雪_唐老师_句1.mp3 */,
+				24823B0C1B7673040014B11C /* 14江雪_唐老师_句2.mp3 */,
+				24823B0D1B7673040014B11C /* 14江雪_唐老师_句3.mp3 */,
+				24823B0E1B7673040014B11C /* 14江雪_唐老师_句4.mp3 */,
+				24823B0F1B7673040014B11C /* 14江雪_唐老师.mp3 */,
+				24823B101B7673040014B11C /* 14江雪_周老师_句1.mp3 */,
+				24823B111B7673040014B11C /* 14江雪_周老师_句2.mp3 */,
+				24823B121B7673040014B11C /* 14江雪_周老师_句3.mp3 */,
+				24823B131B7673040014B11C /* 14江雪_周老师_句4.mp3 */,
+				24823B141B7673040014B11C /* 14江雪_周老师.mp3 */,
+				24823B1A1B7673040014B11C /* 15滁州西涧_唐老师_句1.mp3 */,
+				24823B1B1B7673040014B11C /* 15滁州西涧_唐老师_句2.mp3 */,
+				24823B1C1B7673040014B11C /* 15滁州西涧_唐老师_句3.mp3 */,
+				24823B1D1B7673040014B11C /* 15滁州西涧_唐老师_句4.mp3 */,
+				24823B1E1B7673040014B11C /* 15滁州西涧_唐老师.mp3 */,
+				24823B1F1B7673040014B11C /* 15滁州西涧_周老师_句1.mp3 */,
+				24823B201B7673040014B11C /* 15滁州西涧_周老师_句2.mp3 */,
+				24823B211B7673040014B11C /* 15滁州西涧_周老师_句3.mp3 */,
+				24823B221B7673040014B11C /* 15滁州西涧_周老师_句4.mp3 */,
+				24823B231B7673040014B11C /* 15滁州西涧_周老师.mp3 */,
+				24823B291B7673040014B11C /* 16送元二使安西_唐老师_句1.mp3 */,
+				24823B2A1B7673040014B11C /* 16送元二使安西_唐老师_句2.mp3 */,
+				24823B2B1B7673040014B11C /* 16送元二使安西_唐老师_句3.mp3 */,
+				24823B2C1B7673040014B11C /* 16送元二使安西_唐老师_句4.mp3 */,
+				24823B2D1B7673040014B11C /* 16送元二使安西_唐老师.mp3 */,
+				24823B2E1B7673040014B11C /* 16送元二使安西_周老师_句1.mp3 */,
+				24823B2F1B7673040014B11C /* 16送元二使安西_周老师_句2.mp3 */,
+				24823B301B7673040014B11C /* 16送元二使安西_周老师_句3.mp3 */,
+				24823B311B7673040014B11C /* 16送元二使安西_周老师_句4.mp3 */,
+				24823B321B7673040014B11C /* 16送元二使安西_周老师.mp3 */,
+				24823B331B7673040014B11C /* 17别董大_唐老师_句1.mp3 */,
+				24823B341B7673040014B11C /* 17别董大_唐老师_句2.mp3 */,
+				24823B351B7673040014B11C /* 17别董大_唐老师_句3.mp3 */,
+				24823B361B7673040014B11C /* 17别董大_唐老师_句4.mp3 */,
+				24823B371B7673040014B11C /* 17别董大_唐老师.mp3 */,
+				24823B381B7673040014B11C /* 17别董大_周老师_句1.mp3 */,
+				24823B391B7673040014B11C /* 17别董大_周老师_句2.mp3 */,
+				24823B3A1B7673040014B11C /* 17别董大_周老师_句3.mp3 */,
+				24823B3B1B7673040014B11C /* 17别董大_周老师_句4.mp3 */,
+				24823B3C1B7673040014B11C /* 17别董大_周老师.mp3 */,
+				24823B471B7673040014B11C /* 19乐游原_唐老师_句1.mp3 */,
+				24823B481B7673040014B11C /* 19乐游原_唐老师_句2.mp3 */,
+				24823B491B7673040014B11C /* 19乐游原_唐老师_句3.mp3 */,
+				24823B4A1B7673040014B11C /* 19乐游原_唐老师_句4.mp3 */,
+				24823B4B1B7673040014B11C /* 19乐游原_唐老师.mp3 */,
+				24823B4C1B7673040014B11C /* 19乐游原_周老师_句1.mp3 */,
+				24823B4D1B7673040014B11C /* 19乐游原_周老师_句2.mp3 */,
+				24823B4E1B7673040014B11C /* 19乐游原_周老师_句3.mp3 */,
+				24823B4F1B7673040014B11C /* 19乐游原_周老师_句4.mp3 */,
+				24823B501B7673040014B11C /* 19乐游原_周老师.mp3 */,
+				24810EE31B78B43200E21F28 /* 18早春_周老师_句1.mp3 */,
+				24810EE41B78B43200E21F28 /* 18早春_周老师_句2.mp3 */,
+				24B022911B7B79C900B6B76B /* 18早春_周老师_句3.mp3 */,
+				24810EE61B78B43200E21F28 /* 18早春_周老师_句4.mp3 */,
+				24810EE71B78B43200E21F28 /* 18早春_周老师.mp3 */,
+				24823B5B1B7673040014B11C /* 18早春_唐老师_句1.mp3 */,
+				24823B5C1B7673040014B11C /* 18早春_唐老师_句2.mp3 */,
+				24823B5D1B7673040014B11C /* 18早春_唐老师_句3.mp3 */,
+				24823B5E1B7673040014B11C /* 18早春_唐老师_句4.mp3 */,
+				24823B5F1B7673040014B11C /* 18早春_唐老师.mp3 */,
+				2482396C1B7672E60014B11C /* 03早发白帝城_唐老师_句1.mp3 */,
+				2482396D1B7672E60014B11C /* 03早发白帝城_唐老师_句2.mp3 */,
+				2482396E1B7672E60014B11C /* 03早发白帝城_唐老师_句3.mp3 */,
+				2482396F1B7672E60014B11C /* 03早发白帝城_唐老师_句4.mp3 */,
+				248239701B7672E60014B11C /* 03早发白帝城_唐老师.mp3 */,
+				248239711B7672E60014B11C /* 03早发白帝城_周老师_句1.mp3 */,
+				248239721B7672E60014B11C /* 03早发白帝城_周老师_句2.mp3 */,
+				248239731B7672E60014B11C /* 03早发白帝城_周老师_句3.mp3 */,
+				248239741B7672E60014B11C /* 03早发白帝城_周老师_句4.mp3 */,
+				248239751B7672E60014B11C /* 03早发白帝城_周老师.mp3 */,
+				2482397B1B7672E60014B11C /* 04静夜思_唐老师_句1.mp3 */,
+				2482397C1B7672E60014B11C /* 04静夜思_唐老师_句2.mp3 */,
+				2482397D1B7672E60014B11C /* 04静夜思_唐老师_句3.mp3 */,
+				2482397E1B7672E60014B11C /* 04静夜思_唐老师_句4.mp3 */,
+				2482397F1B7672E60014B11C /* 04静夜思_唐老师.mp3 */,
+				248239801B7672E60014B11C /* 04静夜思_周老师_句1.mp3 */,
+				248239811B7672E60014B11C /* 04静夜思_周老师_句2.mp3 */,
+				248239821B7672E60014B11C /* 04静夜思_周老师_句3.mp3 */,
+				248239831B7672E60014B11C /* 04静夜思_周老师_句4.mp3 */,
+				248239841B7672E60014B11C /* 04静夜思_周老师.mp3 */,
+				2482398A1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句1.mp3 */,
+				2482398B1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句2.mp3 */,
+				2482398C1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句3.mp3 */,
+				2482398D1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师_句4.mp3 */,
+				2482398E1B7672E60014B11C /* 05九月九日忆山东兄弟_唐老师.mp3 */,
+				2482398F1B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句1.mp3 */,
+				248239901B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句2.mp3 */,
+				248239911B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句3.mp3 */,
+				248239921B7672E60014B11C /* 05九月九日忆山东兄弟_周老师_句4.mp3 */,
+				248239931B7672E60014B11C /* 05九月九日忆山东兄弟_周老师.mp3 */,
+				248239991B7672E60014B11C /* 06春晓_唐老师_句1.mp3 */,
+				2482399A1B7672E60014B11C /* 06春晓_唐老师_句2.mp3 */,
+				2482399B1B7672E60014B11C /* 06春晓_唐老师_句3.mp3 */,
+				2482399C1B7672E60014B11C /* 06春晓_唐老师_句4.mp3 */,
+				2482399D1B7672E60014B11C /* 06春晓_唐老师.mp3 */,
+				2482399E1B7672E60014B11C /* 06春晓_周老师_句1.mp3 */,
+				2482399F1B7672E60014B11C /* 06春晓_周老师_句2.mp3 */,
+				248239A01B7672E60014B11C /* 06春晓_周老师_句3.mp3 */,
+				248239A11B7672E60014B11C /* 06春晓_周老师_句4.mp3 */,
+				248239A21B7672E60014B11C /* 06春晓_周老师.mp3 */,
+				24810ED91B78B42200E21F28 /* 07绝句_周老师_句1.mp3 */,
+				24810EDA1B78B42200E21F28 /* 07绝句_周老师_句2.mp3 */,
+				24810EDB1B78B42200E21F28 /* 07绝句_周老师_句3.mp3 */,
+				24810EDC1B78B42200E21F28 /* 07绝句_周老师_句4.mp3 */,
+				24810EDD1B78B42200E21F28 /* 07绝句_周老师.mp3 */,
+				248239A81B7672E60014B11C /* 07绝句_唐老师_句1.mp3 */,
+				248239A91B7672E60014B11C /* 07绝句_唐老师_句2.mp3 */,
+				248239AA1B7672E60014B11C /* 07绝句_唐老师_句3.mp3 */,
+				248239AB1B7672E60014B11C /* 07绝句_唐老师_句4.mp3 */,
+				248239AC1B7672E60014B11C /* 07绝句_唐老师.mp3 */,
+				248239B71B7672E60014B11C /* 08秋夕_唐老师_句1.mp3 */,
+				248239B81B7672E60014B11C /* 08秋夕_唐老师_句2.mp3 */,
+				248239B91B7672E60014B11C /* 08秋夕_唐老师_句3.mp3 */,
+				248239BA1B7672E60014B11C /* 08秋夕_唐老师_句4.mp3 */,
+				248239BB1B7672E60014B11C /* 08秋夕_唐老师.mp3 */,
+				248239BC1B7672E60014B11C /* 08秋夕_周老师_句1.mp3 */,
+				248239BD1B7672E60014B11C /* 08秋夕_周老师_句2.mp3 */,
+				248239BE1B7672E60014B11C /* 08秋夕_周老师_句3.mp3 */,
+				248239BF1B7672E60014B11C /* 08秋夕_周老师_句4.mp3 */,
+				248239C01B7672E60014B11C /* 08秋夕_周老师.mp3 */,
+				248239C61B7672E60014B11C /* 13咏柳_唐老师_句1.mp3 */,
+				248239C71B7672E60014B11C /* 13咏柳_唐老师_句2.mp3 */,
+				248239C81B7672E60014B11C /* 13咏柳_唐老师_句3.mp3 */,
+				248239C91B7672E60014B11C /* 13咏柳_唐老师_句4.mp3 */,
+				248239CA1B7672E60014B11C /* 13咏柳_唐老师.mp3 */,
+				248239CB1B7672E60014B11C /* 13咏柳_周老师_句1.mp3 */,
+				248239CC1B7672E60014B11C /* 13咏柳_周老师_句2.mp3 */,
+				248239CD1B7672E60014B11C /* 13咏柳_周老师_句3.mp3 */,
+				248239CE1B7672E60014B11C /* 13咏柳_周老师_句4.mp3 */,
+				248239CF1B7672E60014B11C /* 13咏柳_周老师.mp3 */,
+				248239D51B7672E60014B11C /* 00枫桥夜泊_唐老师_句1.mp3 */,
+				248239D61B7672E60014B11C /* 00枫桥夜泊_唐老师_句2.mp3 */,
+				248239D71B7672E60014B11C /* 00枫桥夜泊_唐老师_句3.mp3 */,
+				248239D81B7672E60014B11C /* 00枫桥夜泊_唐老师_句4.mp3 */,
+				248239D91B7672E60014B11C /* 00枫桥夜泊_唐老师.mp3 */,
+				248239DA1B7672E60014B11C /* 00枫桥夜泊_周老师_句1.mp3 */,
+				248239DB1B7672E60014B11C /* 00枫桥夜泊_周老师_句2.mp3 */,
+				248239DC1B7672E60014B11C /* 00枫桥夜泊_周老师_句3.mp3 */,
+				248239DD1B7672E60014B11C /* 00枫桥夜泊_周老师_句4.mp3 */,
+				248239DE1B7672E60014B11C /* 00枫桥夜泊_周老师.mp3 */,
+				248239E41B7672E60014B11C /* 01登鹳雀楼_唐老师_句1.mp3 */,
+				248239E51B7672E60014B11C /* 01登鹳雀楼_唐老师_句2.mp3 */,
+				248239E61B7672E60014B11C /* 01登鹳雀楼_唐老师_句3.mp3 */,
+				248239E71B7672E60014B11C /* 01登鹳雀楼_唐老师_句4.mp3 */,
+				248239E81B7672E60014B11C /* 01登鹳雀楼_唐老师.mp3 */,
+				248239E91B7672E60014B11C /* 01登鹳雀楼_周老师_句1.mp3 */,
+				248239EA1B7672E60014B11C /* 01登鹳雀楼_周老师_句2.mp3 */,
+				248239EB1B7672E60014B11C /* 01登鹳雀楼_周老师_句3.mp3 */,
+				248239EC1B7672E60014B11C /* 01登鹳雀楼_周老师_句4.mp3 */,
+				248239ED1B7672E60014B11C /* 01登鹳雀楼_周老师.mp3 */,
+				248239FE1B7672E60014B11C /* 12山行_唐老师_句1.mp3 */,
+				248239FF1B7672E60014B11C /* 12山行_唐老师_句2.mp3 */,
+				24823A001B7672E60014B11C /* 12山行_唐老师_句3.mp3 */,
+				24823A011B7672E70014B11C /* 12山行_唐老师_句4.mp3 */,
+				24823A021B7672E70014B11C /* 12山行_唐老师.mp3 */,
+				24823A031B7672E70014B11C /* 12山行_周老师_句1.mp3 */,
+				24823A041B7672E70014B11C /* 12山行_周老师_句2.mp3 */,
+				24823A051B7672E70014B11C /* 12山行_周老师_句3.mp3 */,
+				24823A061B7672E70014B11C /* 12山行_周老师_句4.mp3 */,
+				24823A071B7672E70014B11C /* 12山行_周老师.mp3 */,
+				24823A0D1B7672E70014B11C /* 11暮江吟_唐老师_句1.mp3 */,
+				24823A0E1B7672E70014B11C /* 11暮江吟_唐老师_句2.mp3 */,
+				24823A0F1B7672E70014B11C /* 11暮江吟_唐老师_句3.mp3 */,
+				24823A101B7672E70014B11C /* 11暮江吟_唐老师_句4.mp3 */,
+				24823A111B7672E70014B11C /* 11暮江吟_唐老师.mp3 */,
+				24823A121B7672E70014B11C /* 11暮江吟_周老师_句1.mp3 */,
+				24823A131B7672E70014B11C /* 11暮江吟_周老师_句2.mp3 */,
+				24823A141B7672E70014B11C /* 11暮江吟_周老师_句3.mp3 */,
+				24823A151B7672E70014B11C /* 11暮江吟_周老师_句4.mp3 */,
+				24823A161B7672E70014B11C /* 11暮江吟_周老师.mp3 */,
+				24823A1C1B7672E70014B11C /* 09出塞_唐老师_句1.mp3 */,
+				24823A1D1B7672E70014B11C /* 09出塞_唐老师_句2.mp3 */,
+				24823A1E1B7672E70014B11C /* 09出塞_唐老师_句3.mp3 */,
+				24823A1F1B7672E70014B11C /* 09出塞_唐老师_句4.mp3 */,
+				24823A201B7672E70014B11C /* 09出塞_唐老师.mp3 */,
+				24823A211B7672E70014B11C /* 09出塞_周老师_句1.mp3 */,
+				24823A221B7672E70014B11C /* 09出塞_周老师_句2.mp3 */,
+				24823A231B7672E70014B11C /* 09出塞_周老师_句3.mp3 */,
+				24823A241B7672E70014B11C /* 09出塞_周老师_句4.mp3 */,
+				24823A251B7672E70014B11C /* 09出塞_周老师.mp3 */,
+				24823A2B1B7672E70014B11C /* 10塞下曲_唐老师_句1.mp3 */,
+				24823A2C1B7672E70014B11C /* 10塞下曲_唐老师_句2.mp3 */,
+				24823A2D1B7672E70014B11C /* 10塞下曲_唐老师_句3.mp3 */,
+				24823A2E1B7672E70014B11C /* 10塞下曲_唐老师_句4.mp3 */,
+				24823A2F1B7672E70014B11C /* 10塞下曲_唐老师.mp3 */,
+				24823A301B7672E70014B11C /* 10塞下曲_周老师_句1.mp3 */,
+				24823A311B7672E70014B11C /* 10塞下曲_周老师_句2.mp3 */,
+				24823A321B7672E70014B11C /* 10塞下曲_周老师_句3.mp3 */,
+				24823A331B7672E70014B11C /* 10塞下曲_周老师_句4.mp3 */,
+				24823A341B7672E70014B11C /* 10塞下曲_周老师.mp3 */,
+			);
+			name = "audio files";
+			sourceTree = "<group>";
+		};
+		24A04D661B6DDB5500629D92 = {
+			isa = PBXGroup;
+			children = (
+				24A04D711B6DDB5500629D92 /* poetry */,
+				24A04D861B6DDB5500629D92 /* poetryTests */,
+				24A04D911B6DDB5500629D92 /* poetryUITests */,
+				24A04D701B6DDB5500629D92 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		24A04D701B6DDB5500629D92 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24A04D6F1B6DDB5500629D92 /* poetry.app */,
+				24A04D831B6DDB5500629D92 /* poetryTests.xctest */,
+				24A04D8E1B6DDB5500629D92 /* poetryUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24A04D711B6DDB5500629D92 /* poetry */ = {
+			isa = PBXGroup;
+			children = (
+				24A04D721B6DDB5500629D92 /* AppDelegate.swift */,
+				24A04DA01B6DE47400629D92 /* MenuTableViewController.swift */,
+				249BE3361B75CBC700AC7F62 /* LilyViewController.swift */,
+				24A04DA21B6E031B00629D92 /* MenuTableViewCell.swift */,
+				24C2FDB31B70D53800A1A504 /* ContentViewController.swift */,
+				24A04DA41B6E089200629D92 /* poetryMenu.swift */,
+				248239551B7669D60014B11C /* Main.storyboard */,
+				245AA0751B7386350033A9F5 /* Assets.xcassets */,
+				24A04D7B1B6DDB5500629D92 /* LaunchScreen.storyboard */,
+				24A04D7E1B6DDB5500629D92 /* Info.plist */,
+				24424E641B72757A005108CF /* audio files */,
+			);
+			path = poetry;
+			sourceTree = "<group>";
+		};
+		24A04D861B6DDB5500629D92 /* poetryTests */ = {
+			isa = PBXGroup;
+			children = (
+				24A04D871B6DDB5500629D92 /* poetryTests.swift */,
+				24A04D891B6DDB5500629D92 /* Info.plist */,
+			);
+			path = poetryTests;
+			sourceTree = "<group>";
+		};
+		24A04D911B6DDB5500629D92 /* poetryUITests */ = {
+			isa = PBXGroup;
+			children = (
+				24A04D921B6DDB5500629D92 /* poetryUITests.swift */,
+				24A04D941B6DDB5500629D92 /* Info.plist */,
+			);
+			path = poetryUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		24A04D6E1B6DDB5500629D92 /* poetry */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A04D971B6DDB5500629D92 /* Build configuration list for PBXNativeTarget "poetry" */;
+			buildPhases = (
+				24A04D6B1B6DDB5500629D92 /* Sources */,
+				24A04D6C1B6DDB5500629D92 /* Frameworks */,
+				24A04D6D1B6DDB5500629D92 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = poetry;
+			productName = poetry;
+			productReference = 24A04D6F1B6DDB5500629D92 /* poetry.app */;
+			productType = "com.apple.product-type.application";
+		};
+		24A04D821B6DDB5500629D92 /* poetryTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A04D9A1B6DDB5500629D92 /* Build configuration list for PBXNativeTarget "poetryTests" */;
+			buildPhases = (
+				24A04D7F1B6DDB5500629D92 /* Sources */,
+				24A04D801B6DDB5500629D92 /* Frameworks */,
+				24A04D811B6DDB5500629D92 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				24A04D851B6DDB5500629D92 /* PBXTargetDependency */,
+			);
+			name = poetryTests;
+			productName = poetryTests;
+			productReference = 24A04D831B6DDB5500629D92 /* poetryTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		24A04D8D1B6DDB5500629D92 /* poetryUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A04D9D1B6DDB5500629D92 /* Build configuration list for PBXNativeTarget "poetryUITests" */;
+			buildPhases = (
+				24A04D8A1B6DDB5500629D92 /* Sources */,
+				24A04D8B1B6DDB5500629D92 /* Frameworks */,
+				24A04D8C1B6DDB5500629D92 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				24A04D901B6DDB5500629D92 /* PBXTargetDependency */,
+			);
+			name = poetryUITests;
+			productName = poetryUITests;
+			productReference = 24A04D8E1B6DDB5500629D92 /* poetryUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24A04D671B6DDB5500629D92 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = panda2r;
+				TargetAttributes = {
+					24A04D6E1B6DDB5500629D92 = {
+						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = 624Z6KYEMW;
+					};
+					24A04D821B6DDB5500629D92 = {
+						CreatedOnToolsVersion = 7.0;
+						TestTargetID = 24A04D6E1B6DDB5500629D92;
+					};
+					24A04D8D1B6DDB5500629D92 = {
+						CreatedOnToolsVersion = 7.0;
+						TestTargetID = 24A04D6E1B6DDB5500629D92;
+					};
+				};
+			};
+			buildConfigurationList = 24A04D6A1B6DDB5500629D92 /* Build configuration list for PBXProject "poetry" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 24A04D661B6DDB5500629D92;
+			productRefGroup = 24A04D701B6DDB5500629D92 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				24A04D6E1B6DDB5500629D92 /* poetry */,
+				24A04D821B6DDB5500629D92 /* poetryTests */,
+				24A04D8D1B6DDB5500629D92 /* poetryUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		24A04D6D1B6DDB5500629D92 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24823BB61B7673040014B11C /* 18早春_唐老师_句2.mp3 in Resources */,
+				24823B921B7673040014B11C /* 17别董大_周老师_句1.mp3 in Resources */,
+				24823B881B7673040014B11C /* 16送元二使安西_周老师_句1.mp3 in Resources */,
+				24823B6A1B7673040014B11C /* 14江雪_周老师_句1.mp3 in Resources */,
+				24823C1C1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句4.mp3 in Resources */,
+				24823B031B7672E70014B11C /* 10塞下曲_周老师_句3.mp3 in Resources */,
+				24810EEC1B78B43200E21F28 /* 18早春_周老师.mp3 in Resources */,
+				24823BB91B7673040014B11C /* 18早春_唐老师.mp3 in Resources */,
+				24823A7D1B7672E70014B11C /* 07绝句_唐老师.mp3 in Resources */,
+				24823B741B7673040014B11C /* 15滁州西涧_唐老师_句1.mp3 in Resources */,
+				24810EE91B78B43200E21F28 /* 18早春_周老师_句2.mp3 in Resources */,
+				24823C371B7673190014B11C /* 24凉州词_唐老师_句1.mp3 in Resources */,
+				24823C3D1B7673190014B11C /* 24凉州词_周老师_句2.mp3 in Resources */,
+				24823AFD1B7672E70014B11C /* 10塞下曲_唐老师_句2.mp3 in Resources */,
+				24823AB91B7672E70014B11C /* 01登鹳雀楼_唐老师.mp3 in Resources */,
+				24823C291B7673190014B11C /* 23逢入京使_唐老师_句2.mp3 in Resources */,
+				24823B941B7673040014B11C /* 17别董大_周老师_句3.mp3 in Resources */,
+				24823BA21B7673040014B11C /* 19乐游原_唐老师_句2.mp3 in Resources */,
+				24823C2D1B7673190014B11C /* 23逢入京使_周老师_句1.mp3 in Resources */,
+				24823AD61B7672E70014B11C /* 12山行_周老师_句3.mp3 in Resources */,
+				24823B6D1B7673040014B11C /* 14江雪_周老师_句4.mp3 in Resources */,
+				24823B051B7672E70014B11C /* 10塞下曲_周老师.mp3 in Resources */,
+				24823B681B7673040014B11C /* 14江雪_唐老师_句4.mp3 in Resources */,
+				24823A5C1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句2.mp3 in Resources */,
+				24823A4C1B7672E70014B11C /* 04静夜思_唐老师_句1.mp3 in Resources */,
+				24823A551B7672E70014B11C /* 04静夜思_周老师.mp3 in Resources */,
+				24823A9E1B7672E70014B11C /* 13咏柳_周老师_句3.mp3 in Resources */,
+				24823A5D1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句3.mp3 in Resources */,
+				24823B6B1B7673040014B11C /* 14江雪_周老师_句2.mp3 in Resources */,
+				24823AB81B7672E70014B11C /* 01登鹳雀楼_唐老师_句4.mp3 in Resources */,
+				24823C2A1B7673190014B11C /* 23逢入京使_唐老师_句3.mp3 in Resources */,
+				24823A8B1B7672E70014B11C /* 08秋夕_唐老师_句4.mp3 in Resources */,
+				24823A5F1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师.mp3 in Resources */,
+				24823A8E1B7672E70014B11C /* 08秋夕_周老师_句2.mp3 in Resources */,
+				24823B841B7673040014B11C /* 16送元二使安西_唐老师_句2.mp3 in Resources */,
+				24823A731B7672E70014B11C /* 06春晓_周老师.mp3 in Resources */,
+				24823ABC1B7672E70014B11C /* 01登鹳雀楼_周老师_句3.mp3 in Resources */,
+				24823AAF1B7672E70014B11C /* 00枫桥夜泊_周老师.mp3 in Resources */,
+				24823C121B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句4.mp3 in Resources */,
+				24823AD01B7672E70014B11C /* 12山行_唐老师_句2.mp3 in Resources */,
+				24823A891B7672E70014B11C /* 08秋夕_唐老师_句2.mp3 in Resources */,
+				24823A6E1B7672E70014B11C /* 06春晓_唐老师.mp3 in Resources */,
+				24823A6C1B7672E70014B11C /* 06春晓_唐老师_句3.mp3 in Resources */,
+				24823B891B7673040014B11C /* 16送元二使安西_周老师_句2.mp3 in Resources */,
+				24823B7A1B7673040014B11C /* 15滁州西涧_周老师_句2.mp3 in Resources */,
+				24823A8C1B7672E70014B11C /* 08秋夕_唐老师.mp3 in Resources */,
+				24823B901B7673040014B11C /* 17别董大_唐老师_句4.mp3 in Resources */,
+				24823BB81B7673040014B11C /* 18早春_唐老师_句4.mp3 in Resources */,
+				24823C3E1B7673190014B11C /* 24凉州词_周老师_句3.mp3 in Resources */,
+				24823B931B7673040014B11C /* 17别董大_周老师_句2.mp3 in Resources */,
+				24823C1F1B7673190014B11C /* 21夜上受降城闻笛_周老师_句2.mp3 in Resources */,
+				24823A7C1B7672E70014B11C /* 07绝句_唐老师_句4.mp3 in Resources */,
+				24823B6E1B7673040014B11C /* 14江雪_周老师.mp3 in Resources */,
+				24823C4F1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师.mp3 in Resources */,
+				24823C211B7673190014B11C /* 21夜上受降城闻笛_周老师_句4.mp3 in Resources */,
+				24823AD71B7672E70014B11C /* 12山行_周老师_句4.mp3 in Resources */,
+				24823C2E1B7673190014B11C /* 23逢入京使_周老师_句2.mp3 in Resources */,
+				24823C381B7673190014B11C /* 24凉州词_唐老师_句2.mp3 in Resources */,
+				24823B6C1B7673040014B11C /* 14江雪_周老师_句3.mp3 in Resources */,
+				24823B011B7672E70014B11C /* 10塞下曲_周老师_句1.mp3 in Resources */,
+				24823AAB1B7672E70014B11C /* 00枫桥夜泊_周老师_句1.mp3 in Resources */,
+				24823B651B7673040014B11C /* 14江雪_唐老师_句1.mp3 in Resources */,
+				24823BB71B7673040014B11C /* 18早春_唐老师_句3.mp3 in Resources */,
+				24A04D7D1B6DDB5500629D92 /* LaunchScreen.storyboard in Resources */,
+				24823B961B7673040014B11C /* 17别董大_周老师.mp3 in Resources */,
+				24823A9C1B7672E70014B11C /* 13咏柳_周老师_句1.mp3 in Resources */,
+				24823AEE1B7672E70014B11C /* 09出塞_唐老师_句2.mp3 in Resources */,
+				24823B911B7673040014B11C /* 17别董大_唐老师.mp3 in Resources */,
+				24823ABA1B7672E70014B11C /* 01登鹳雀楼_周老师_句1.mp3 in Resources */,
+				24823B021B7672E70014B11C /* 10塞下曲_周老师_句2.mp3 in Resources */,
+				246650F91B778BE9009261FC /* 02望庐山瀑布_周老师_句4.mp3 in Resources */,
+				24823ABD1B7672E70014B11C /* 01登鹳雀楼_周老师_句4.mp3 in Resources */,
+				24823C3B1B7673190014B11C /* 24凉州词_唐老师.mp3 in Resources */,
+				24823AAE1B7672E70014B11C /* 00枫桥夜泊_周老师_句4.mp3 in Resources */,
+				24823AEF1B7672E70014B11C /* 09出塞_唐老师_句3.mp3 in Resources */,
+				24823A711B7672E70014B11C /* 06春晓_周老师_句3.mp3 in Resources */,
+				24823A3E1B7672E70014B11C /* 03早发白帝城_唐老师_句2.mp3 in Resources */,
+				24823BA81B7673040014B11C /* 19乐游原_周老师_句3.mp3 in Resources */,
+				24823C491B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句4.mp3 in Resources */,
+				24823A631B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句4.mp3 in Resources */,
+				24823AD11B7672E70014B11C /* 12山行_唐老师_句3.mp3 in Resources */,
+				24823B8A1B7673040014B11C /* 16送元二使安西_周老师_句3.mp3 in Resources */,
+				24823A641B7672E70014B11C /* 05九月九日忆山东兄弟_周老师.mp3 in Resources */,
+				24823AD41B7672E70014B11C /* 12山行_周老师_句1.mp3 in Resources */,
+				24823C3A1B7673190014B11C /* 24凉州词_唐老师_句4.mp3 in Resources */,
+				24823AE41B7672E70014B11C /* 11暮江吟_周老师_句2.mp3 in Resources */,
+				24823B871B7673040014B11C /* 16送元二使安西_唐老师.mp3 in Resources */,
+				24823C3C1B7673190014B11C /* 24凉州词_周老师_句1.mp3 in Resources */,
+				24823B8F1B7673040014B11C /* 17别董大_唐老师_句3.mp3 in Resources */,
+				24823C0E1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师.mp3 in Resources */,
+				24823AD81B7672E70014B11C /* 12山行_周老师.mp3 in Resources */,
+				24B022921B7B79C900B6B76B /* 18早春_周老师_句3.mp3 in Resources */,
+				24823BAA1B7673040014B11C /* 19乐游原_周老师.mp3 in Resources */,
+				246650F71B778BE9009261FC /* 02望庐山瀑布_周老师_句1.mp3 in Resources */,
+				24823C4B1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句1.mp3 in Resources */,
+				24823A8D1B7672E70014B11C /* 08秋夕_周老师_句1.mp3 in Resources */,
+				24823A911B7672E70014B11C /* 08秋夕_周老师.mp3 in Resources */,
+				24823AA71B7672E70014B11C /* 00枫桥夜泊_唐老师_句2.mp3 in Resources */,
+				24823C461B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句1.mp3 in Resources */,
+				24823A401B7672E70014B11C /* 03早发白帝城_唐老师_句4.mp3 in Resources */,
+				24823A4E1B7672E70014B11C /* 04静夜思_唐老师_句3.mp3 in Resources */,
+				24823C311B7673190014B11C /* 23逢入京使_周老师.mp3 in Resources */,
+				24823C281B7673190014B11C /* 23逢入京使_唐老师_句1.mp3 in Resources */,
+				246650F51B778BE9009261FC /* 02望庐山瀑布_唐老师_句4.mp3 in Resources */,
+				24823A5B1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句1.mp3 in Resources */,
+				24823B831B7673040014B11C /* 16送元二使安西_唐老师_句1.mp3 in Resources */,
+				24810EE21B78B42200E21F28 /* 07绝句_周老师.mp3 in Resources */,
+				24823AF41B7672E70014B11C /* 09出塞_周老师_句3.mp3 in Resources */,
+				24823B7C1B7673040014B11C /* 15滁州西涧_周老师_句4.mp3 in Resources */,
+				24823A461B7672E70014B11C /* 03早发白帝城_周老师.mp3 in Resources */,
+				24823C1E1B7673190014B11C /* 21夜上受降城闻笛_周老师_句1.mp3 in Resources */,
+				24823C221B7673190014B11C /* 21夜上受降城闻笛_周老师.mp3 in Resources */,
+				24810EE01B78B42200E21F28 /* 07绝句_周老师_句3.mp3 in Resources */,
+				24823C4D1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句3.mp3 in Resources */,
+				24823C2B1B7673190014B11C /* 23逢入京使_唐老师_句4.mp3 in Resources */,
+				24823AF11B7672E70014B11C /* 09出塞_唐老师.mp3 in Resources */,
+				24823B8D1B7673040014B11C /* 17别董大_唐老师_句1.mp3 in Resources */,
+				24823A621B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句3.mp3 in Resources */,
+				24823B661B7673040014B11C /* 14江雪_唐老师_句2.mp3 in Resources */,
+				246650F41B778BE9009261FC /* 02望庐山瀑布_唐老师_句3.mp3 in Resources */,
+				24823A421B7672E70014B11C /* 03早发白帝城_周老师_句1.mp3 in Resources */,
+				24823A4F1B7672E70014B11C /* 04静夜思_唐老师_句4.mp3 in Resources */,
+				24823BA61B7673040014B11C /* 19乐游原_周老师_句1.mp3 in Resources */,
+				24823A721B7672E70014B11C /* 06春晓_周老师_句4.mp3 in Resources */,
+				24823AAC1B7672E70014B11C /* 00枫桥夜泊_周老师_句2.mp3 in Resources */,
+				245AA0761B7386350033A9F5 /* Assets.xcassets in Resources */,
+				246650F61B778BE9009261FC /* 02望庐山瀑布_唐老师.mp3 in Resources */,
+				24823AE61B7672E70014B11C /* 11暮江吟_周老师_句4.mp3 in Resources */,
+				24823A981B7672E70014B11C /* 13咏柳_唐老师_句2.mp3 in Resources */,
+				24823B8B1B7673040014B11C /* 16送元二使安西_周老师_句4.mp3 in Resources */,
+				246650F31B778BE9009261FC /* 02望庐山瀑布_唐老师_句2.mp3 in Resources */,
+				24823A4D1B7672E70014B11C /* 04静夜思_唐老师_句2.mp3 in Resources */,
+				24823A6D1B7672E70014B11C /* 06春晓_唐老师_句4.mp3 in Resources */,
+				24823ABB1B7672E70014B11C /* 01登鹳雀楼_周老师_句2.mp3 in Resources */,
+				24823AD51B7672E70014B11C /* 12山行_周老师_句2.mp3 in Resources */,
+				24823A7A1B7672E70014B11C /* 07绝句_唐老师_句2.mp3 in Resources */,
+				24823A441B7672E70014B11C /* 03早发白帝城_周老师_句3.mp3 in Resources */,
+				24823AF61B7672E70014B11C /* 09出塞_周老师.mp3 in Resources */,
+				24823AFF1B7672E70014B11C /* 10塞下曲_唐老师_句4.mp3 in Resources */,
+				24823AB71B7672E70014B11C /* 01登鹳雀楼_唐老师_句3.mp3 in Resources */,
+				24823AD31B7672E70014B11C /* 12山行_唐老师.mp3 in Resources */,
+				24810EE81B78B43200E21F28 /* 18早春_周老师_句1.mp3 in Resources */,
+				24823A531B7672E70014B11C /* 04静夜思_周老师_句3.mp3 in Resources */,
+				24823AFC1B7672E70014B11C /* 10塞下曲_唐老师_句1.mp3 in Resources */,
+				24823BA71B7673040014B11C /* 19乐游原_周老师_句2.mp3 in Resources */,
+				246650F21B778BE9009261FC /* 02望庐山瀑布_唐老师_句1.mp3 in Resources */,
+				24823A9F1B7672E70014B11C /* 13咏柳_周老师_句4.mp3 in Resources */,
+				24823BA51B7673040014B11C /* 19乐游原_唐老师.mp3 in Resources */,
+				24823B781B7673040014B11C /* 15滁州西涧_唐老师.mp3 in Resources */,
+				24823BB51B7673040014B11C /* 18早春_唐老师_句1.mp3 in Resources */,
+				24823A611B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句2.mp3 in Resources */,
+				24823AE31B7672E70014B11C /* 11暮江吟_周老师_句1.mp3 in Resources */,
+				24823C3F1B7673190014B11C /* 24凉州词_周老师_句4.mp3 in Resources */,
+				24823A6B1B7672E70014B11C /* 06春晓_唐老师_句2.mp3 in Resources */,
+				24823C191B7673190014B11C /* 21夜上受降城闻笛_唐老师_句1.mp3 in Resources */,
+				24823C0C1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句3.mp3 in Resources */,
+				24823BA91B7673040014B11C /* 19乐游原_周老师_句4.mp3 in Resources */,
+				24823C301B7673190014B11C /* 23逢入京使_周老师_句4.mp3 in Resources */,
+				24823C4C1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句2.mp3 in Resources */,
+				24823AE51B7672E70014B11C /* 11暮江吟_周老师_句3.mp3 in Resources */,
+				24823BA11B7673040014B11C /* 19乐游原_唐老师_句1.mp3 in Resources */,
+				24823C401B7673190014B11C /* 24凉州词_周老师.mp3 in Resources */,
+				24823A7B1B7672E70014B11C /* 07绝句_唐老师_句3.mp3 in Resources */,
+				24823AE21B7672E70014B11C /* 11暮江吟_唐老师.mp3 in Resources */,
+				24823A8A1B7672E70014B11C /* 08秋夕_唐老师_句3.mp3 in Resources */,
+				24823AB51B7672E70014B11C /* 01登鹳雀楼_唐老师_句1.mp3 in Resources */,
+				24823ADE1B7672E70014B11C /* 11暮江吟_唐老师_句1.mp3 in Resources */,
+				24823A9B1B7672E70014B11C /* 13咏柳_唐老师.mp3 in Resources */,
+				248239571B7669D60014B11C /* Main.storyboard in Resources */,
+				24810EE11B78B42200E21F28 /* 07绝句_周老师_句4.mp3 in Resources */,
+				24823AF31B7672E70014B11C /* 09出塞_周老师_句2.mp3 in Resources */,
+				24823C0A1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句1.mp3 in Resources */,
+				24823AED1B7672E70014B11C /* 09出塞_唐老师_句1.mp3 in Resources */,
+				24823C391B7673190014B11C /* 24凉州词_唐老师_句3.mp3 in Resources */,
+				24823AF01B7672E70014B11C /* 09出塞_唐老师_句4.mp3 in Resources */,
+				24823B751B7673040014B11C /* 15滁州西涧_唐老师_句2.mp3 in Resources */,
+				24823C1B1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句3.mp3 in Resources */,
+				24823B851B7673040014B11C /* 16送元二使安西_唐老师_句3.mp3 in Resources */,
+				24823A3D1B7672E70014B11C /* 03早发白帝城_唐老师_句1.mp3 in Resources */,
+				24823B8C1B7673040014B11C /* 16送元二使安西_周老师.mp3 in Resources */,
+				24823A451B7672E70014B11C /* 03早发白帝城_周老师_句4.mp3 in Resources */,
+				24823C4E1B7673190014B11C /* 22逢雪宿芙蓉山主人_周老师_句4.mp3 in Resources */,
+				24823A901B7672E70014B11C /* 08秋夕_周老师_句4.mp3 in Resources */,
+				246650FC1B778D3C009261FC /* 02望庐山瀑布_周老师_句3.mp3 in Resources */,
+				24823A971B7672E70014B11C /* 13咏柳_唐老师_句1.mp3 in Resources */,
+				24823BA31B7673040014B11C /* 19乐游原_唐老师_句3.mp3 in Resources */,
+				24823AFE1B7672E70014B11C /* 10塞下曲_唐老师_句3.mp3 in Resources */,
+				24823B771B7673040014B11C /* 15滁州西涧_唐老师_句4.mp3 in Resources */,
+				24810EDF1B78B42200E21F28 /* 07绝句_周老师_句2.mp3 in Resources */,
+				24823C101B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句2.mp3 in Resources */,
+				24823AAA1B7672E70014B11C /* 00枫桥夜泊_唐老师.mp3 in Resources */,
+				24823A881B7672E70014B11C /* 08秋夕_唐老师_句1.mp3 in Resources */,
+				24823B041B7672E70014B11C /* 10塞下曲_周老师_句4.mp3 in Resources */,
+				24823B791B7673040014B11C /* 15滁州西涧_周老师_句1.mp3 in Resources */,
+				24823C0F1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句1.mp3 in Resources */,
+				24823C481B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句3.mp3 in Resources */,
+				24823AE11B7672E70014B11C /* 11暮江吟_唐老师_句4.mp3 in Resources */,
+				24823A541B7672E70014B11C /* 04静夜思_周老师_句4.mp3 in Resources */,
+				24810EDE1B78B42200E21F28 /* 07绝句_周老师_句1.mp3 in Resources */,
+				24823A3F1B7672E70014B11C /* 03早发白帝城_唐老师_句3.mp3 in Resources */,
+				24823AA01B7672E70014B11C /* 13咏柳_周老师.mp3 in Resources */,
+				24823A521B7672E70014B11C /* 04静夜思_周老师_句2.mp3 in Resources */,
+				24823C201B7673190014B11C /* 21夜上受降城闻笛_周老师_句3.mp3 in Resources */,
+				24823AA61B7672E70014B11C /* 00枫桥夜泊_唐老师_句1.mp3 in Resources */,
+				24823A8F1B7672E70014B11C /* 08秋夕_周老师_句3.mp3 in Resources */,
+				24823C2F1B7673190014B11C /* 23逢入京使_周老师_句3.mp3 in Resources */,
+				24823AA91B7672E70014B11C /* 00枫桥夜泊_唐老师_句4.mp3 in Resources */,
+				24823B671B7673040014B11C /* 14江雪_唐老师_句3.mp3 in Resources */,
+				24823A9A1B7672E70014B11C /* 13咏柳_唐老师_句4.mp3 in Resources */,
+				24823AA81B7672E70014B11C /* 00枫桥夜泊_唐老师_句3.mp3 in Resources */,
+				24823A5E1B7672E70014B11C /* 05九月九日忆山东兄弟_唐老师_句4.mp3 in Resources */,
+				24823A701B7672E70014B11C /* 06春晓_周老师_句2.mp3 in Resources */,
+				24823B691B7673040014B11C /* 14江雪_唐老师.mp3 in Resources */,
+				24810EEB1B78B43200E21F28 /* 18早春_周老师_句4.mp3 in Resources */,
+				24823A991B7672E70014B11C /* 13咏柳_唐老师_句3.mp3 in Resources */,
+				24823A501B7672E70014B11C /* 04静夜思_唐老师.mp3 in Resources */,
+				24823AB61B7672E70014B11C /* 01登鹳雀楼_唐老师_句2.mp3 in Resources */,
+				24823C2C1B7673190014B11C /* 23逢入京使_唐老师.mp3 in Resources */,
+				246650F81B778BE9009261FC /* 02望庐山瀑布_周老师_句2.mp3 in Resources */,
+				24823AAD1B7672E70014B11C /* 00枫桥夜泊_周老师_句3.mp3 in Resources */,
+				24823AF51B7672E70014B11C /* 09出塞_周老师_句4.mp3 in Resources */,
+				24823A9D1B7672E70014B11C /* 13咏柳_周老师_句2.mp3 in Resources */,
+				24823C131B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师.mp3 in Resources */,
+				24823A511B7672E70014B11C /* 04静夜思_周老师_句1.mp3 in Resources */,
+				24823ABE1B7672E70014B11C /* 01登鹳雀楼_周老师.mp3 in Resources */,
+				24823B8E1B7673040014B11C /* 17别董大_唐老师_句2.mp3 in Resources */,
+				24823C1D1B7673190014B11C /* 21夜上受降城闻笛_唐老师.mp3 in Resources */,
+				246650FA1B778BE9009261FC /* 02望庐山瀑布_周老师.mp3 in Resources */,
+				24823A6F1B7672E70014B11C /* 06春晓_周老师_句1.mp3 in Resources */,
+				24823B7B1B7673040014B11C /* 15滁州西涧_周老师_句3.mp3 in Resources */,
+				24823A6A1B7672E70014B11C /* 06春晓_唐老师_句1.mp3 in Resources */,
+				24823B861B7673040014B11C /* 16送元二使安西_唐老师_句4.mp3 in Resources */,
+				24823B761B7673040014B11C /* 15滁州西涧_唐老师_句3.mp3 in Resources */,
+				24823A791B7672E70014B11C /* 07绝句_唐老师_句1.mp3 in Resources */,
+				24823A601B7672E70014B11C /* 05九月九日忆山东兄弟_周老师_句1.mp3 in Resources */,
+				24823B951B7673040014B11C /* 17别董大_周老师_句4.mp3 in Resources */,
+				24823C111B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_周老师_句3.mp3 in Resources */,
+				24823C471B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师_句2.mp3 in Resources */,
+				24823C1A1B7673190014B11C /* 21夜上受降城闻笛_唐老师_句2.mp3 in Resources */,
+				24823B7D1B7673040014B11C /* 15滁州西涧_周老师.mp3 in Resources */,
+				24823AE71B7672E70014B11C /* 11暮江吟_周老师.mp3 in Resources */,
+				24823A411B7672E70014B11C /* 03早发白帝城_唐老师.mp3 in Resources */,
+				24823C0D1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句4.mp3 in Resources */,
+				24823A431B7672E70014B11C /* 03早发白帝城_周老师_句2.mp3 in Resources */,
+				24823ACF1B7672E70014B11C /* 12山行_唐老师_句1.mp3 in Resources */,
+				24823AD21B7672E70014B11C /* 12山行_唐老师_句4.mp3 in Resources */,
+				24823AE01B7672E70014B11C /* 11暮江吟_唐老师_句3.mp3 in Resources */,
+				24823ADF1B7672E70014B11C /* 11暮江吟_唐老师_句2.mp3 in Resources */,
+				24823BA41B7673040014B11C /* 19乐游原_唐老师_句4.mp3 in Resources */,
+				24823AF21B7672E70014B11C /* 09出塞_周老师_句1.mp3 in Resources */,
+				24823B001B7672E70014B11C /* 10塞下曲_唐老师.mp3 in Resources */,
+				24823C4A1B7673190014B11C /* 22逢雪宿芙蓉山主人_唐老师.mp3 in Resources */,
+				24823C0B1B7673190014B11C /* 20黄鹤楼送孟浩然之广陵_唐老师_句2.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A04D811B6DDB5500629D92 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A04D8C1B6DDB5500629D92 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		24A04D6B1B6DDB5500629D92 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				249BE3371B75CBC700AC7F62 /* LilyViewController.swift in Sources */,
+				24C2FDB41B70D53800A1A504 /* ContentViewController.swift in Sources */,
+				24A04D731B6DDB5500629D92 /* AppDelegate.swift in Sources */,
+				24A04DA31B6E031B00629D92 /* MenuTableViewCell.swift in Sources */,
+				24A04DA11B6DE47400629D92 /* MenuTableViewController.swift in Sources */,
+				24A04DA51B6E089200629D92 /* poetryMenu.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A04D7F1B6DDB5500629D92 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24A04DA61B6E089200629D92 /* poetryMenu.swift in Sources */,
+				24A04D881B6DDB5500629D92 /* poetryTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A04D8A1B6DDB5500629D92 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24A04DA71B6E089200629D92 /* poetryMenu.swift in Sources */,
+				24A04D931B6DDB5500629D92 /* poetryUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		24A04D851B6DDB5500629D92 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24A04D6E1B6DDB5500629D92 /* poetry */;
+			targetProxy = 24A04D841B6DDB5500629D92 /* PBXContainerItemProxy */;
+		};
+		24A04D901B6DDB5500629D92 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24A04D6E1B6DDB5500629D92 /* poetry */;
+			targetProxy = 24A04D8F1B6DDB5500629D92 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		248239551B7669D60014B11C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				248239561B7669D60014B11C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		24A04D7B1B6DDB5500629D92 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24A04D7C1B6DDB5500629D92 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		24A04D951B6DDB5500629D92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		24A04D961B6DDB5500629D92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		24A04D981B6DDB5500629D92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = poetry/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.panda2r.poetry;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		24A04D991B6DDB5500629D92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = poetry/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.panda2r.poetry;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		24A04D9B1B6DDB5500629D92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = poetryTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.panda2r.poetryTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/poetry.app/poetry";
+			};
+			name = Debug;
+		};
+		24A04D9C1B6DDB5500629D92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = poetryTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.panda2r.poetryTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/poetry.app/poetry";
+			};
+			name = Release;
+		};
+		24A04D9E1B6DDB5500629D92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = poetryUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.panda2r.poetryUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = poetry;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		24A04D9F1B6DDB5500629D92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = poetryUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cn.panda2r.poetryUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = poetry;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24A04D6A1B6DDB5500629D92 /* Build configuration list for PBXProject "poetry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A04D951B6DDB5500629D92 /* Debug */,
+				24A04D961B6DDB5500629D92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A04D971B6DDB5500629D92 /* Build configuration list for PBXNativeTarget "poetry" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A04D981B6DDB5500629D92 /* Debug */,
+				24A04D991B6DDB5500629D92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A04D9A1B6DDB5500629D92 /* Build configuration list for PBXNativeTarget "poetryTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A04D9B1B6DDB5500629D92 /* Debug */,
+				24A04D9C1B6DDB5500629D92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A04D9D1B6DDB5500629D92 /* Build configuration list for PBXNativeTarget "poetryUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A04D9E1B6DDB5500629D92 /* Debug */,
+				24A04D9F1B6DDB5500629D92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 24A04D671B6DDB5500629D92 /* Project object */;
+}
